@@ -1,0 +1,293 @@
+#mOTUlizer:mOTUlize:0.3.2
+#prefix=mOTU_
+#
+#genomes=FL_maxbin.574.fasta.contigs:completeness=87.37:redundancy=50.32;FR_maxbin.253.fasta.contigs:completeness=83.79:redundancy=4.01;FL_maxbin.583.fasta_sub.contigs:completeness=80.58:redundancy=1.17;FL_maxbin.099.fasta.contigs:completeness=80.56:redundancy=1.7;FR_maxbin.052.fasta.contigs:completeness=81.48:redundancy=9.6;FL_maxbin.450.fasta.contigs:completeness=71.33:redundancy=1.25;FL_metabat2.692.fa.contigs:completeness=79.96:redundancy=1.32;FR_maxbin.014.fasta.contigs:completeness=91.51:redundancy=2.46;FL_metabat2.354.fa.contigs:completeness=86.7:redundancy=0.37;FL_maxbin.627.fasta.contigs:completeness=88.47:redundancy=2.33;FL_maxbin.063.fasta_sub.contigs:completeness=88.34:redundancy=2.34;FR_maxbin.010.fasta.contigs:completeness=89.18:redundancy=0.5;FR_maxbin.177.fasta.contigs:completeness=81.66:redundancy=4.31;FL_maxbin.244.fasta.contigs:completeness=70.69:redundancy=1.72;FL_maxbin.605.fasta.contigs:completeness=85.42:redundancy=4.09;FL_maxbin.040.fasta.contigs:completeness=90.6:redundancy=0.86;FL_metabat2.829.fa.contigs:completeness=70.67:redundancy=1.29;FL_maxbin.073.fasta.contigs:completeness=77.53:redundancy=2.51;FL_maxbin.144.fasta.contigs:completeness=81.11:redundancy=38.34;FR_maxbin.020.fasta.contigs:completeness=82.14:redundancy=0.0;FL_maxbin.313.fasta.contigs:completeness=87.09:redundancy=1.96;FR_maxbin.317.fasta.contigs:completeness=82.88:redundancy=0.91;FR_metabat2.195.fa.contigs:completeness=96.13:redundancy=1.12;FL_metabat2.839.fa_sub.contigs:completeness=70.55:redundancy=1.44;FL_metabat2.313.fa.contigs:completeness=70.94:redundancy=0.64;FL_metabat2.361.fa.contigs:completeness=89.25:redundancy=1.17;FR_metabat2.202.fa.contigs:completeness=91.88:redundancy=0.12;FL_maxbin.525.fasta.contigs:completeness=77.93:redundancy=2.23;FR_maxbin.131.fasta.contigs:completeness=86.86:redundancy=2.81;FL_metabat2.487.fa.contigs:completeness=79.02:redundancy=1.82;FL_metabat2.429.fa.contigs:completeness=92.79:redundancy=0.0;FL_maxbin.556.fasta.contigs:completeness=71.11:redundancy=0.85;FL_metabat2.572.fa.contigs:completeness=75.86:redundancy=1.12;FL_maxbin.143.fasta.contigs:completeness=75.39:redundancy=1.6;FL_maxbin.417.fasta.contigs:completeness=77.21:redundancy=3.98;FR_metabat2.148.fa.contigs:completeness=89.35:redundancy=0.34;FR_maxbin.293.fasta.contigs:completeness=82.24:redundancy=1.0;FL_metabat2.349.fa.contigs:completeness=82.76:redundancy=1.72;FR_maxbin.055.fasta.contigs:completeness=81.03:redundancy=0.0;FL_metabat2.495.fa_sub.contigs:completeness=81.08:redundancy=3.18;FL_maxbin.502.fasta.contigs:completeness=76.76:redundancy=1.11;FR_maxbin.286.fasta.contigs:completeness=76.77:redundancy=2.85;FL_maxbin.559.fasta.contigs:completeness=86.0:redundancy=1.39;FL_maxbin.577.fasta.contigs:completeness=85.19:redundancy=0.31;FL_metabat2.339.fa.contigs:completeness=94.55:redundancy=0.91;FL_maxbin.075.fasta.contigs:completeness=86.9:redundancy=2.04;FR_maxbin.021.fasta.contigs:completeness=86.83:redundancy=0.38;FR_maxbin.025.fasta.contigs:completeness=94.95:redundancy=4.4;FL_maxbin.162.fasta.contigs:completeness=88.39:redundancy=5.06;FL_metabat2.624.fa.contigs:completeness=79.55:redundancy=0.0;FR_maxbin.085.fasta.contigs:completeness=85.45:redundancy=1.67;FR_maxbin.243.fasta.contigs:completeness=90.44:redundancy=3.05;FL_maxbin.645.fasta.contigs:completeness=64.01:redundancy=3.2;FR_maxbin.269.fasta.contigs:completeness=83.17:redundancy=2.29;FL_metabat2.508.fa.contigs:completeness=80.0:redundancy=1.82;FL_maxbin.389.fasta.contigs:completeness=76.58:redundancy=0.3;FL_maxbin.438.fasta_sub.contigs:completeness=80.51:redundancy=0.91;FL_maxbin.091.fasta_sub.contigs:completeness=48.12:redundancy=5.8;FR_maxbin.045.fasta.contigs:completeness=95.69:redundancy=1.72;FL_metabat2.775.fa.contigs:completeness=90.0:redundancy=0.0;FR_metabat2.404.fa.contigs:completeness=90.0:redundancy=0.0;FR_metabat2.428.fa.contigs:completeness=87.93:redundancy=1.88;FL_maxbin.057.fasta.contigs:completeness=76.96:redundancy=0.16;FR_maxbin.095.fasta.contigs:completeness=91.14:redundancy=2.65;FL_metabat2.187.fa.contigs:completeness=88.42:redundancy=0.21;FL_metabat2.216.fa.contigs:completeness=70.54:redundancy=2.53;FR_maxbin.302.fasta.contigs:completeness=87.8:redundancy=0.91;FR_metabat2.276.fa.contigs:completeness=23.14:redundancy=0.19;FL_maxbin.009.fasta.contigs:completeness=70.74:redundancy=2.82;FL_metabat2.147.fa.contigs:completeness=86.97:redundancy=1.82;FR_maxbin.048.fasta.contigs:completeness=92.73:redundancy=0.0;FL_maxbin.631.fasta.contigs:completeness=90.91:redundancy=0.0;FL_maxbin.317.fasta.contigs:completeness=70.57:redundancy=2.12;FL_metabat2.700.fa.contigs:completeness=70.83:redundancy=0.0;FR_metabat2.41.fa_sub.contigs:completeness=84.5:redundancy=4.55;FL_maxbin.168.fasta.contigs:completeness=82.24:redundancy=1.91;FR_maxbin.099.fasta.contigs:completeness=92.83:redundancy=1.07;FL_maxbin.039.fasta.contigs:completeness=88.18:redundancy=1.2;FR_maxbin.199.fasta_sub.contigs:completeness=70.26:redundancy=1.56;FL_maxbin.001.fasta.contigs:completeness=69.26:redundancy=1.7;FL_metabat2.525.fa.contigs:completeness=80.35:redundancy=1.88;FR_metabat2.39.fa.contigs:completeness=89.17:redundancy=0.62;FL_maxbin.004.fasta.contigs:completeness=96.32:redundancy=0.27;FR_maxbin.001.fasta.contigs:completeness=21.83:redundancy=0.0;FL_maxbin.149.fasta_sub.contigs:completeness=91.49:redundancy=1.39;FR_maxbin.087.fasta.contigs:completeness=84.34:redundancy=3.32;FL_metabat2.169.fa.contigs:completeness=53.48:redundancy=0.9;FR_metabat2.302.fa.contigs:completeness=81.82:redundancy=2.02;FR_maxbin.283.fasta.contigs:completeness=75.72:redundancy=0.0;FR_maxbin.079.fasta.contigs:completeness=67.24:redundancy=0.0;FL_metabat2.376.fa.contigs:completeness=72.41:redundancy=0.0;FR_metabat2.146.fa.contigs:completeness=92.92:redundancy=3.84;FR_maxbin.264.fasta_sub.contigs:completeness=55.67:redundancy=18.82;FL_maxbin.217.fasta.contigs:completeness=80.68:redundancy=4.04;FL_maxbin.568.fasta.contigs:completeness=72.1:redundancy=2.36;FR_maxbin.127.fasta.contigs:completeness=72.1:redundancy=0.0;FL_metabat2.176.fa.contigs:completeness=86.87:redundancy=0.51;FR_maxbin.016.fasta.contigs:completeness=97.72:redundancy=2.4;FL_maxbin.031.fasta.contigs:completeness=97.72:redundancy=1.51;FR_maxbin.271.fasta.contigs:completeness=91.82:redundancy=0.0;FL_metabat2.477.fa.contigs:completeness=91.82:redundancy=0.0;FL_metabat2.267.fa.contigs:completeness=93.75:redundancy=0.52;FR_metabat2.399.fa.contigs:completeness=75.42:redundancy=0.52;FR_metabat2.183.fa.contigs:completeness=94.59:redundancy=0.0;FL_metabat2.795.fa.contigs:completeness=84.12:redundancy=0.0;FR_maxbin.176.fasta.contigs:completeness=87.39:redundancy=1.7;FR_metabat2.177.fa.contigs:completeness=16.37:redundancy=0.0;FR_maxbin.017.fasta_sub.contigs:completeness=74.72:redundancy=1.28;FL_maxbin.104.fasta.contigs:completeness=81.34:redundancy=1.42;FR_maxbin.018.fasta.contigs:completeness=74.13:redundancy=1.44;FL_maxbin.052.fasta_sub.contigs:completeness=70.68:redundancy=1.6;FL_maxbin.176.fasta_sub.contigs:completeness=75.73:redundancy=0.99;FL_metabat2.507.fa.contigs:completeness=85.42:redundancy=1.72;FL_metabat2.813.fa.contigs:completeness=85.14:redundancy=0.69;FR_maxbin.033.fasta.contigs:completeness=91.64:redundancy=2.28;FL_metabat2.605.fa.contigs:completeness=90.91:redundancy=0.0;FR_maxbin.223.fasta.contigs:completeness=81.71:redundancy=1.72;FR_metabat2.260.fa_sub.contigs:completeness=80.37:redundancy=0.56;FL_metabat2.696.fa_sub.contigs:completeness=85.92:redundancy=3.53;FL_metabat2.478.fa.contigs:completeness=82.66:redundancy=0.03;FR_maxbin.035.fasta.contigs:completeness=96.57:redundancy=0.0;FL_maxbin.070.fasta.contigs:completeness=96.57:redundancy=0.0;FL_maxbin.642.fasta.contigs:completeness=72.85:redundancy=1.25;FL_metabat2.796.fa_sub.contigs:completeness=74.36:redundancy=0.71;FL_metabat2.584.fa.contigs:completeness=70.74:redundancy=2.54;RSP_maxbin.022.fasta.contigs:completeness=66.13:redundancy=15.99;FR_maxbin.321.fasta.contigs:completeness=89.01:redundancy=3.5;FR_metabat2.153.fa.contigs:completeness=89.66:redundancy=0.73;FR_maxbin.160.fasta.contigs:completeness=92.59:redundancy=0.0;FL_maxbin.472.fasta.contigs:completeness=92.07:redundancy=0.91;FR_metabat2.427.fa.contigs:completeness=86.27:redundancy=0.63;FL_maxbin.636.fasta.contigs:completeness=95.12:redundancy=1.08;FR_maxbin.232.fasta.contigs:completeness=93.2:redundancy=0.95;FR_maxbin.059.fasta_sub.contigs:completeness=85.05:redundancy=21.34;FL_metabat2.520.fa.contigs:completeness=86.06:redundancy=0.0;FL_maxbin.010.fasta.contigs:completeness=85.83:redundancy=2.12;FR_maxbin.258.fasta.contigs:completeness=82.02:redundancy=1.31;FR_maxbin.261.fasta.contigs:completeness=81.94:redundancy=0.44;FL_maxbin.496.fasta.contigs:completeness=78.93:redundancy=0.65;FL_maxbin.593.fasta.contigs:completeness=73.02:redundancy=1.7;FR_metabat2.190.fa.contigs:completeness=90.61:redundancy=0.0;FL_maxbin.227.fasta.contigs:completeness=96.82:redundancy=0.0;FR_maxbin.173.fasta.contigs:completeness=82.18:redundancy=4.51;FL_maxbin.014.fasta.contigs:completeness=84.74:redundancy=2.26;FL_metabat2.365.fa.contigs:completeness=89.91:redundancy=0.0;FR_maxbin.137.fasta_sub.contigs:completeness=76.66:redundancy=32.3;FL_maxbin.036.fasta.contigs:completeness=75.42:redundancy=3.5;FR_metabat2.54.fa.contigs:completeness=70.61:redundancy=0.23;FL_maxbin.007.fasta.contigs:completeness=52.05:redundancy=1.89;FL_maxbin.190.fasta.contigs:completeness=84.32:redundancy=1.26;FR_maxbin.036.fasta.contigs:completeness=79.09:redundancy=0.0;FL_maxbin.206.fasta.contigs:completeness=85.45:redundancy=0.0;FR_metabat2.244.fa.contigs:completeness=81.98:redundancy=0.0;FL_maxbin.597.fasta.contigs:completeness=86.01:redundancy=2.2;FL_maxbin.603.fasta.contigs:completeness=70.64:redundancy=2.17;FL_maxbin.068.fasta.contigs:completeness=72.13:redundancy=0.94;FL_metabat2.481.fa.contigs:completeness=88.64:redundancy=1.36;FR_metabat2.4.fa_sub.contigs:completeness=60.78:redundancy=0.45;FR_maxbin.047.fasta.contigs:completeness=90.22:redundancy=1.7;FL_metabat2.515.fa.contigs:completeness=59.28:redundancy=0.65;FR_maxbin.125.fasta_sub.contigs:completeness=85.35:redundancy=0.72;FL_metabat2.441.fa.contigs:completeness=92.73:redundancy=0.91;FR_metabat2.7.fa.contigs:completeness=86.12:redundancy=1.12;FL_maxbin.120.fasta.contigs:completeness=75.72:redundancy=2.58;FR_maxbin.179.fasta.contigs:completeness=85.67:redundancy=3.14;FL_maxbin.013.fasta_sub.contigs:completeness=89.75:redundancy=51.6;FL_metabat2.40.fa.contigs:completeness=80.06:redundancy=0.91;FR_metabat2.62.fa.contigs:completeness=69.09:redundancy=0.52;FR_maxbin.119.fasta.contigs:completeness=82.27:redundancy=2.73;FL_metabat2.27.fa.contigs:completeness=82.83:redundancy=0.0;FL_maxbin.530.fasta_sub.contigs:completeness=71.01:redundancy=1.78;FL_metabat2.439.fa.contigs:completeness=86.59:redundancy=0.45;FR_metabat2.172.fa.contigs:completeness=84.3:redundancy=0.0;FL_maxbin.394.fasta.contigs:completeness=80.04:redundancy=1.01;FR_maxbin.075.fasta_sub.contigs:completeness=83.14:redundancy=3.32;FL_metabat2.748.fa.contigs:completeness=77.68:redundancy=4.32;FL_metabat2.733.fa.contigs:completeness=88.68:redundancy=0.18;FL_maxbin.395.fasta.contigs:completeness=79.06:redundancy=0.3;FL_metabat2.804.fa.contigs:completeness=73.78:redundancy=2.0;FL_metabat2.56.fa.contigs:completeness=88.42:redundancy=0.3;FR_metabat2.125.fa.contigs:completeness=87.03:redundancy=0.3;RF_maxbin.001.fasta.contigs:completeness=88.98:redundancy=1.9;FL_metabat2.529.fa_sub.contigs:completeness=81.04:redundancy=0.03;FL_maxbin.494.fasta.contigs:completeness=90.68:redundancy=2.03;FL_metabat2.246.fa_sub.contigs:completeness=83.7:redundancy=2.12;FL_metabat2.364.fa.contigs:completeness=70.33:redundancy=0.0;FR_maxbin.028.fasta.contigs:completeness=85.55:redundancy=4.46;FL_maxbin.029.fasta.contigs:completeness=84.43:redundancy=4.6;FR_metabat2.52.fa.contigs:completeness=66.85:redundancy=1.7;FL_maxbin.072.fasta.contigs:completeness=89.44:redundancy=1.25;FL_metabat2.601.fa.contigs:completeness=39.39:redundancy=0.51;FR_metabat2.121.fa.contigs:completeness=76.18:redundancy=1.01;FR_metabat2.188.fa.contigs:completeness=74.63:redundancy=2.25;FR_maxbin.319.fasta.contigs:completeness=83.8:redundancy=20.46;FL_maxbin.037.fasta.contigs:completeness=79.17:redundancy=1.37;FL_metabat2.325.fa.contigs:completeness=74.29:redundancy=1.68;FL_maxbin.012.fasta.contigs:completeness=81.64:redundancy=0.57;FR_maxbin.255.fasta_sub.contigs:completeness=83.32:redundancy=6.67;FL_metabat2.666.fa_sub.contigs:completeness=72.92:redundancy=0.18;FR_maxbin.171.fasta.contigs:completeness=88.97:redundancy=2.19;FR_maxbin.282.fasta_sub.contigs:completeness=89.02:redundancy=0.49;FL_metabat2.328.fa.contigs:completeness=62.23:redundancy=0.91;FL_metabat2.123.fa.contigs:completeness=77.03:redundancy=0.91;FR_maxbin.063.fasta.contigs:completeness=84.21:redundancy=3.62;FR_metabat2.228.fa.contigs:completeness=72.08:redundancy=1.3;FL_metabat2.101.fa.contigs:completeness=86.92:redundancy=0.73;FL_metabat2.288.fa_sub.contigs:completeness=80.19:redundancy=1.49;FL_maxbin.316.fasta.contigs:completeness=81.8:redundancy=0.0;FL_maxbin.572.fasta.contigs:completeness=88.64:redundancy=1.72;FL_maxbin.437.fasta_sub.contigs:completeness=90.12:redundancy=4.55;FL_maxbin.074.fasta.contigs:completeness=75.57:redundancy=3.74;FL_metabat2.130.fa_sub.contigs:completeness=82.2:redundancy=2.73;FL_maxbin.327.fasta.contigs:completeness=77.17:redundancy=3.16;FL_metabat2.191.fa.contigs:completeness=76.41:redundancy=0.0;FR_metabat2.158.fa.contigs:completeness=78.8:redundancy=0.0;FR_maxbin.192.fasta.contigs:completeness=99.02:redundancy=1.11;FL_maxbin.584.fasta.contigs:completeness=97.06:redundancy=0.62;FL_metabat2.809.fa.contigs:completeness=72.03:redundancy=1.39;FR_maxbin.301.fasta.contigs:completeness=75.26:redundancy=0.09;FL_maxbin.643.fasta.contigs:completeness=79.04:redundancy=2.76;FR_maxbin.022.fasta.contigs:completeness=76.74:redundancy=0.75;FR_maxbin.298.fasta_sub.contigs:completeness=74.88:redundancy=39.02;FL_metabat2.331.fa.contigs:completeness=78.94:redundancy=0.0;FL_metabat2.744.fa.contigs:completeness=76.52:redundancy=1.82;FL_metabat2.576.fa.contigs:completeness=74.95:redundancy=0.91;FL_metabat2.777.fa.contigs:completeness=81.04:redundancy=0.17;FR_metabat2.294.fa.contigs:completeness=77.68:redundancy=0.37;FL_metabat2.784.fa.contigs:completeness=78.26:redundancy=1.05;FR_metabat2.229.fa_sub.contigs:completeness=76.56:redundancy=0.97;FR_maxbin.154.fasta.contigs:completeness=75.88:redundancy=3.74;FL_maxbin.003.fasta.contigs:completeness=83.77:redundancy=0.37;FR_maxbin.305.fasta.contigs:completeness=76.9:redundancy=0.37;FL_metabat2.303.fa.contigs:completeness=87.45:redundancy=0.0;FR_metabat2.364.fa.contigs:completeness=40.0:redundancy=0.0;FR_maxbin.164.fasta.contigs:completeness=87.36:redundancy=1.15;FL_maxbin.034.fasta.contigs:completeness=85.86:redundancy=1.62;FL_maxbin.506.fasta.contigs:completeness=79.31:redundancy=2.7;FL_metabat2.680.fa.contigs:completeness=97.41:redundancy=0.0;FL_maxbin.646.fasta.contigs:completeness=87.74:redundancy=0.4;FR_maxbin.043.fasta.contigs:completeness=90.32:redundancy=0.18;FL_maxbin.018.fasta.contigs:completeness=90.82:redundancy=2.02;FL_maxbin.640.fasta.contigs:completeness=84.7:redundancy=5.23;FR_maxbin.314.fasta.contigs:completeness=83.83:redundancy=0.0;FL_metabat2.100.fa.contigs:completeness=76.71:redundancy=0.08;FR_metabat2.233.fa.contigs:completeness=89.96:redundancy=0.0;FL_maxbin.602.fasta.contigs:completeness=74.74:redundancy=1.09;FR_maxbin.078.fasta.contigs:completeness=79.31:redundancy=0.0;FR_metabat2.321.fa.contigs:completeness=88.91:redundancy=2.45;FL_maxbin.021.fasta.contigs:completeness=85.93:redundancy=3.21;FL_maxbin.534.fasta_sub.contigs:completeness=93.48:redundancy=2.12;FR_maxbin.019.fasta.contigs:completeness=94.76:redundancy=1.44;FL_maxbin.022.fasta.contigs:completeness=97.27:redundancy=0.15;FL_metabat2.569.fa.contigs:completeness=76.62:redundancy=1.26;FL_metabat2.251.fa.contigs:completeness=76.59:redundancy=0.37;FR_metabat2.155.fa.contigs:completeness=83.9:redundancy=0.56;FL_maxbin.110.fasta.contigs:completeness=86.36:redundancy=1.2;FR_maxbin.096.fasta_sub.contigs:completeness=47.14:redundancy=0.94;FR_metabat2.425.fa.contigs:completeness=39.23:redundancy=0.19;FL_metabat2.308.fa.contigs:completeness=84.97:redundancy=0.0;FR_maxbin.309.fasta.contigs:completeness=95.66:redundancy=2.59;FL_maxbin.528.fasta.contigs:completeness=74.53:redundancy=0.16;FR_metabat2.17.fa.contigs:completeness=73.77:redundancy=1.16;FR_metabat2.352.fa.contigs:completeness=95.45:redundancy=0.08;FL_metabat2.683.fa.contigs:completeness=88.42:redundancy=0.56;RF_maxbin.002.fasta.contigs:completeness=91.38:redundancy=2.04;FL_maxbin.109.fasta.contigs:completeness=80.51:redundancy=2.3;FL_metabat2.414.fa.contigs:completeness=93.97:redundancy=1.36;FR_metabat2.181.fa.contigs:completeness=89.09:redundancy=0.0;FL_maxbin.212.fasta.contigs:completeness=78.4:redundancy=3.18;FL_maxbin.259.fasta.contigs:completeness=82.39:redundancy=0.0;FR_maxbin.062.fasta_sub.contigs:completeness=83.31:redundancy=1.21;FL_maxbin.513.fasta.contigs:completeness=80.61:redundancy=2.36;FR_maxbin.110.fasta.contigs:completeness=79.4:redundancy=3.37;FL_maxbin.046.fasta.contigs:completeness=80.48:redundancy=0.0;FL_maxbin.023.fasta.contigs:completeness=82.84:redundancy=1.36;FL_maxbin.026.fasta.contigs:completeness=71.51:redundancy=3.02;FR_metabat2.245.fa.contigs:completeness=40.01:redundancy=0.0;FR_metabat2.194.fa_sub.contigs:completeness=79.18:redundancy=1.8;FL_metabat2.436.fa.contigs:completeness=89.9:redundancy=0.0;FR_metabat2.403.fa.contigs:completeness=90.0:redundancy=0.0;FL_maxbin.058.fasta.contigs:completeness=81.09:redundancy=10.75;FR_maxbin.069.fasta.contigs:completeness=84.98:redundancy=3.01;FL_metabat2.136.fa.contigs:completeness=95.45:redundancy=1.82;FL_maxbin.203.fasta.contigs:completeness=73.97:redundancy=3.01;FL_maxbin.453.fasta.contigs:completeness=87.92:redundancy=1.39;FL_maxbin.586.fasta_sub.contigs:completeness=82.22:redundancy=45.55;FR_metabat2.357.fa.contigs:completeness=70.09:redundancy=0.47;FL_metabat2.565.fa.contigs:completeness=77.32:redundancy=1.85;FL_maxbin.208.fasta.contigs:completeness=74.99:redundancy=1.61;FL_maxbin.482.fasta.contigs:completeness=61.78:redundancy=5.42;FR_maxbin.057.fasta.contigs:completeness=87.43:redundancy=3.23;FR_maxbin.116.fasta_sub.contigs:completeness=83.75:redundancy=4.08;FL_maxbin.096.fasta.contigs:completeness=81.07:redundancy=2.33;FL_maxbin.106.fasta.contigs:completeness=87.82:redundancy=1.66;FL_metabat2.38.fa.contigs:completeness=92.73:redundancy=0.0;FL_metabat2.445.fa.contigs:completeness=91.15:redundancy=0.91;FL_maxbin.580.fasta.contigs:completeness=82.58:redundancy=2.27;FL_maxbin.065.fasta.contigs:completeness=77.04:redundancy=2.47;FR_maxbin.084.fasta_sub.contigs:completeness=80.29:redundancy=2.67;FR_maxbin.227.fasta_sub.contigs:completeness=92.95:redundancy=22.4;FL_maxbin.532.fasta.contigs:completeness=97.27:redundancy=0.91;FR_maxbin.212.fasta_sub.contigs:completeness=93.6:redundancy=92.33;FL_metabat2.58.fa.contigs:completeness=87.88:redundancy=0.91;FL_metabat2.751.fa.contigs:completeness=80.52:redundancy=0.0;FL_metabat2.133.fa.contigs:completeness=77.01:redundancy=1.36;FL_maxbin.607.fasta.contigs:completeness=74.35:redundancy=2.72;FL_metabat2.442.fa.contigs:completeness=79.31:redundancy=0.0;FL_maxbin.297.fasta.contigs:completeness=80.3:redundancy=4.88;FR_metabat2.210.fa.contigs:completeness=99.02:redundancy=0.0;FL_maxbin.459.fasta_sub.contigs:completeness=70.83:redundancy=17.93;FR_maxbin.144.fasta.contigs:completeness=93.0:redundancy=3.58;FR_maxbin.225.fasta.contigs:completeness=92.77:redundancy=4.11;FL_maxbin.644.fasta.contigs:completeness=92.32:redundancy=3.89;FL_metabat2.773.fa.contigs:completeness=72.13:redundancy=1.52;FR_metabat2.308.fa.contigs:completeness=88.18:redundancy=1.9;FL_maxbin.598.fasta_sub.contigs:completeness=31.88:redundancy=3.07;FL_maxbin.473.fasta.contigs:completeness=85.84:redundancy=8.09;FR_maxbin.015.fasta.contigs:completeness=85.2:redundancy=2.03;FL_maxbin.521.fasta.contigs:completeness=90.17:redundancy=2.3;FL_metabat2.145.fa.contigs:completeness=88.04:redundancy=1.95;FR_maxbin.300.fasta_sub.contigs:completeness=60.24:redundancy=23.47;FR_maxbin.032.fasta.contigs:completeness=87.79:redundancy=2.53;FL_metabat2.546.fa.contigs:completeness=83.38:redundancy=0.94;FL_maxbin.526.fasta.contigs:completeness=91.25:redundancy=1.67;FL_maxbin.092.fasta.contigs:completeness=95.33:redundancy=0.0;FR_maxbin.007.fasta.contigs:completeness=38.02:redundancy=0.0;FR_maxbin.009.fasta.contigs:completeness=44.1:redundancy=0.0;FL_maxbin.122.fasta.contigs:completeness=85.02:redundancy=1.01;FR_maxbin.281.fasta.contigs:completeness=83.64:redundancy=3.64;FL_maxbin.493.fasta.contigs:completeness=80.25:redundancy=0.34;FR_metabat2.180.fa.contigs:completeness=85.57:redundancy=0.98;FR_maxbin.040.fasta.contigs:completeness=86.48:redundancy=0.67;FL_metabat2.531.fa.contigs:completeness=80.75:redundancy=0.18;FL_maxbin.019.fasta.contigs:completeness=85.5:redundancy=38.99;FR_maxbin.109.fasta.contigs:completeness=92.21:redundancy=0.0;FL_metabat2.738.fa.contigs:completeness=100.0:redundancy=0.0;FR_maxbin.201.fasta.contigs:completeness=70.98:redundancy=1.45;FL_metabat2.785.fa_sub.contigs:completeness=81.09:redundancy=2.27;FL_maxbin.006.fasta.contigs:completeness=83.08:redundancy=2.07;FR_maxbin.251.fasta_sub.contigs:completeness=59.54:redundancy=20.77;FL_maxbin.582.fasta_sub.contigs:completeness=84.84:redundancy=3.32;FL_metabat2.260.fa.contigs:completeness=77.44:redundancy=0.75;FR_metabat2.64.fa.contigs:completeness=58.71:redundancy=0.9;FL_maxbin.002.fasta.contigs:completeness=71.62:redundancy=0.0;FL_metabat2.703.fa.contigs:completeness=73.79:redundancy=1.31;FL_maxbin.537.fasta.contigs:completeness=93.43:redundancy=2.09;RF_maxbin.017.fasta.contigs:completeness=83.48:redundancy=97.06;FL_maxbin.345.fasta.contigs:completeness=83.94:redundancy=3.62;FL_maxbin.303.fasta.contigs:completeness=90.88:redundancy=1.85;FL_maxbin.194.fasta_sub.contigs:completeness=87.82:redundancy=6.14;FR_maxbin.115.fasta_sub.contigs:completeness=82.23:redundancy=2.73;FL_metabat2.404.fa.contigs:completeness=89.09:redundancy=0.0;FR_metabat2.67.fa_sub.contigs:completeness=22.44:redundancy=0.0;FL_maxbin.051.fasta.contigs:completeness=71.04:redundancy=4.02;FL_maxbin.573.fasta.contigs:completeness=80.12:redundancy=4.58;FR_metabat2.3.fa.contigs:completeness=71.67:redundancy=0.45;FR_maxbin.151.fasta_sub.contigs:completeness=56.7:redundancy=5.9;FL_maxbin.041.fasta.contigs:completeness=76.36:redundancy=0.91;FR_maxbin.279.fasta.contigs:completeness=78.26:redundancy=33.51;FL_maxbin.069.fasta.contigs:completeness=75.17:redundancy=0.0;FR_maxbin.081.fasta.contigs:completeness=84.71:redundancy=1.27;FL_metabat2.309.fa.contigs:completeness=77.05:redundancy=0.99;FL_maxbin.565.fasta.contigs:completeness=80.15:redundancy=2.34;FR_maxbin.306.fasta.contigs:completeness=72.51:redundancy=7.79;FL_metabat2.351.fa.contigs:completeness=82.27:redundancy=0.0;FL_maxbin.448.fasta.contigs:completeness=79.0:redundancy=0.0;FL_metabat2.211.fa.contigs:completeness=94.2:redundancy=0.0;FL_metabat2.257.fa.contigs:completeness=76.09:redundancy=1.76;FL_metabat2.568.fa.contigs:completeness=82.52:redundancy=1.14;FL_maxbin.066.fasta.contigs:completeness=86.94:redundancy=3.79;FL_maxbin.415.fasta.contigs:completeness=78.07:redundancy=3.26;FL_maxbin.444.fasta_sub.contigs:completeness=79.72:redundancy=29.06;FR_metabat2.126.fa.contigs:completeness=77.33:redundancy=0.0;FL_maxbin.283.fasta.contigs:completeness=74.01:redundancy=0.16;FR_metabat2.289.fa_sub.contigs:completeness=74.5:redundancy=0.71;FL_maxbin.632.fasta.contigs:completeness=92.14:redundancy=5.84;FR_maxbin.260.fasta.contigs:completeness=90.98:redundancy=1.24;FR_metabat2.277.fa.contigs:completeness=77.11:redundancy=1.06;FR_maxbin.276.fasta.contigs:completeness=82.12:redundancy=3.88;FL_metabat2.430.fa.contigs:completeness=88.33:redundancy=0.91;FR_maxbin.259.fasta.contigs:completeness=91.36:redundancy=4.5;FR_metabat2.322.fa.contigs:completeness=76.6:redundancy=0.0;FL_metabat2.263.fa_sub.contigs:completeness=78.35:redundancy=1.72;FL_maxbin.585.fasta.contigs:completeness=83.45:redundancy=1.2;FL_maxbin.033.fasta_sub.contigs:completeness=96.36:redundancy=4.91;FR_metabat2.232.fa.contigs:completeness=82.48:redundancy=2.42;FL_metabat2.611.fa.contigs:completeness=83.15:redundancy=0.0
+#
+mOTU	representative	mean_ANI	min_ANI	missing_edges	nb_MAGs	nb_SUBs	MAGs	SUBs
+mOTU_000	FR_maxbin.253.fasta.contigs	99.90045	99.8655	0	1	1	FR_maxbin.253.fasta.contigs	FL_maxbin.574.fasta.contigs
+mOTU_001	FL_maxbin.583.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.583.fasta_sub.contigs	
+mOTU_002	FL_maxbin.099.fasta.contigs	None	100.0	0	1	0	FL_maxbin.099.fasta.contigs	
+mOTU_003	FL_maxbin.450.fasta.contigs	99.97465	99.9572	0	1	1	FL_maxbin.450.fasta.contigs	FR_maxbin.052.fasta.contigs
+mOTU_004	FL_metabat2.692.fa.contigs	None	100.0	0	1	0	FL_metabat2.692.fa.contigs	
+mOTU_005	FR_maxbin.014.fasta.contigs	99.40090000000001	99.2788	0	2	0	FR_maxbin.014.fasta.contigs;FL_metabat2.354.fa.contigs	
+mOTU_006	FL_maxbin.627.fasta.contigs	None	100.0	0	1	0	FL_maxbin.627.fasta.contigs	
+mOTU_007	FR_maxbin.010.fasta.contigs	99.58715	99.5799	0	2	0	FL_maxbin.063.fasta_sub.contigs;FR_maxbin.010.fasta.contigs	
+mOTU_008	FR_maxbin.177.fasta.contigs	99.5275	99.2786	0	2	0	FR_maxbin.177.fasta.contigs;FL_maxbin.244.fasta.contigs	
+mOTU_009	FL_maxbin.605.fasta.contigs	None	100.0	0	1	0	FL_maxbin.605.fasta.contigs	
+mOTU_010	FL_maxbin.040.fasta.contigs	None	100.0	0	1	0	FL_maxbin.040.fasta.contigs	
+mOTU_011	FL_metabat2.829.fa.contigs	None	100.0	0	1	0	FL_metabat2.829.fa.contigs	
+mOTU_012	FL_maxbin.073.fasta.contigs	None	100.0	0	1	0	FL_maxbin.073.fasta.contigs	
+mOTU_013	FR_maxbin.020.fasta.contigs	99.9824	99.9806	0	1	1	FR_maxbin.020.fasta.contigs	FL_maxbin.144.fasta.contigs
+mOTU_014	FL_maxbin.313.fasta.contigs	98.77745	98.5583	0	2	0	FL_maxbin.313.fasta.contigs;FR_maxbin.317.fasta.contigs	
+mOTU_015	FR_metabat2.195.fa.contigs	99.65845	99.4388	0	2	0	FR_metabat2.195.fa.contigs;FL_metabat2.839.fa_sub.contigs	
+mOTU_016	FL_metabat2.313.fa.contigs	None	100.0	0	1	0	FL_metabat2.313.fa.contigs	
+mOTU_017	FR_metabat2.202.fa.contigs	99.39150000000001	99.2299	0	2	0	FL_metabat2.361.fa.contigs;FR_metabat2.202.fa.contigs	
+mOTU_018	FR_maxbin.131.fasta.contigs	99.86099999999999	99.8291	0	2	0	FL_maxbin.525.fasta.contigs;FR_maxbin.131.fasta.contigs	
+mOTU_019	FL_metabat2.487.fa.contigs	None	100.0	0	1	0	FL_metabat2.487.fa.contigs	
+mOTU_020	FL_metabat2.429.fa.contigs	None	100.0	0	1	0	FL_metabat2.429.fa.contigs	
+mOTU_021	FL_maxbin.556.fasta.contigs	None	100.0	0	1	0	FL_maxbin.556.fasta.contigs	
+mOTU_022	FL_metabat2.572.fa.contigs	None	100.0	0	1	0	FL_metabat2.572.fa.contigs	
+mOTU_023	FL_maxbin.143.fasta.contigs	None	100.0	0	1	0	FL_maxbin.143.fasta.contigs	
+mOTU_024	FL_maxbin.417.fasta.contigs	None	100.0	0	1	0	FL_maxbin.417.fasta.contigs	
+mOTU_025	FR_metabat2.148.fa.contigs	None	100.0	0	1	0	FR_metabat2.148.fa.contigs	
+mOTU_026	FR_maxbin.293.fasta.contigs	None	100.0	0	1	0	FR_maxbin.293.fasta.contigs	
+mOTU_027	FL_metabat2.349.fa.contigs	99.72354999999999	99.6694	0	2	0	FL_metabat2.349.fa.contigs;FR_maxbin.055.fasta.contigs	
+mOTU_028	FL_metabat2.495.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.495.fa_sub.contigs	
+mOTU_029	FR_maxbin.286.fasta.contigs	99.9701	99.9681	0	2	0	FL_maxbin.502.fasta.contigs;FR_maxbin.286.fasta.contigs	
+mOTU_030	FL_maxbin.559.fasta.contigs	None	100.0	0	1	0	FL_maxbin.559.fasta.contigs	
+mOTU_031	FL_maxbin.577.fasta.contigs	None	100.0	0	1	0	FL_maxbin.577.fasta.contigs	
+mOTU_032	FL_metabat2.339.fa.contigs	None	100.0	0	1	0	FL_metabat2.339.fa.contigs	
+mOTU_033	FL_maxbin.075.fasta.contigs	99.99289999999999	99.989	0	2	0	FL_maxbin.075.fasta.contigs;FR_maxbin.021.fasta.contigs	
+mOTU_034	FR_maxbin.025.fasta.contigs	99.7835	99.7761	0	1	1	FR_maxbin.025.fasta.contigs	FL_maxbin.162.fasta.contigs
+mOTU_035	FR_maxbin.085.fasta.contigs	99.9038	99.8769	0	2	0	FL_metabat2.624.fa.contigs;FR_maxbin.085.fasta.contigs	
+mOTU_036	FR_maxbin.243.fasta.contigs	99.0361	98.6735	0	1	1	FR_maxbin.243.fasta.contigs	FL_maxbin.645.fasta.contigs
+mOTU_037	FR_maxbin.269.fasta.contigs	None	100.0	0	1	0	FR_maxbin.269.fasta.contigs	
+mOTU_038	FL_metabat2.508.fa.contigs	None	100.0	0	1	0	FL_metabat2.508.fa.contigs	
+mOTU_039	FL_maxbin.389.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.389.fasta.contigs	
+mOTU_040	FL_maxbin.438.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.438.fasta_sub.contigs	
+mOTU_041	FR_maxbin.045.fasta.contigs	99.77154999999999	99.6922	0	1	1	FR_maxbin.045.fasta.contigs	FL_maxbin.091.fasta_sub.contigs
+mOTU_042	FL_metabat2.775.fa.contigs	99.85849999999999	99.8173	0	2	0	FL_metabat2.775.fa.contigs;FR_metabat2.404.fa.contigs	
+mOTU_043	FR_metabat2.428.fa.contigs	99.8237	99.8203	0	2	0	FR_metabat2.428.fa.contigs;FL_maxbin.057.fasta.contigs	
+mOTU_044	FR_maxbin.095.fasta.contigs	99.91210000000001	99.9037	0	2	0	FR_maxbin.095.fasta.contigs;FL_metabat2.187.fa.contigs	
+mOTU_045	FL_metabat2.216.fa.contigs	None	100.0	0	1	0	FL_metabat2.216.fa.contigs	
+mOTU_046	FR_maxbin.302.fasta.contigs	None	100.0	0	1	0	FR_maxbin.302.fasta.contigs	
+mOTU_047	FL_maxbin.009.fasta.contigs	98.2155	97.9244	0	1	1	FL_maxbin.009.fasta.contigs	FR_metabat2.276.fa.contigs
+mOTU_048	FL_metabat2.147.fa.contigs	None	100.0	0	1	0	FL_metabat2.147.fa.contigs	
+mOTU_049	FR_maxbin.048.fasta.contigs	99.8121	99.8056	0	2	0	FR_maxbin.048.fasta.contigs;FL_maxbin.631.fasta.contigs	
+mOTU_050	FL_maxbin.317.fasta.contigs	None	100.0	0	1	0	FL_maxbin.317.fasta.contigs	
+mOTU_051	FL_metabat2.700.fa.contigs	None	100.0	0	1	0	FL_metabat2.700.fa.contigs	
+mOTU_052	FR_metabat2.41.fa_sub.contigs	None	99.9999	0	1	0	FR_metabat2.41.fa_sub.contigs	
+mOTU_053	FL_maxbin.168.fasta.contigs	None	100.0	0	1	0	FL_maxbin.168.fasta.contigs	
+mOTU_054	FR_maxbin.099.fasta.contigs	99.93195	99.9219	0	2	0	FR_maxbin.099.fasta.contigs;FL_maxbin.039.fasta.contigs	
+mOTU_055	FR_maxbin.199.fasta_sub.contigs	99.61255	99.5918	0	1	1	FR_maxbin.199.fasta_sub.contigs	FL_maxbin.001.fasta.contigs
+mOTU_056	FL_metabat2.525.fa.contigs	None	99.9999	0	1	0	FL_metabat2.525.fa.contigs	
+mOTU_057	FR_metabat2.39.fa.contigs	None	100.0	0	1	0	FR_metabat2.39.fa.contigs	
+mOTU_058	FL_maxbin.004.fasta.contigs	99.7997	99.7622	0	1	1	FL_maxbin.004.fasta.contigs	FR_maxbin.001.fasta.contigs
+mOTU_059	FL_maxbin.149.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.149.fasta_sub.contigs	
+mOTU_060	FR_maxbin.087.fasta.contigs	99.1965	98.7902	0	1	1	FR_maxbin.087.fasta.contigs	FL_metabat2.169.fa.contigs
+mOTU_061	FR_metabat2.302.fa.contigs	None	100.0	0	1	0	FR_metabat2.302.fa.contigs	
+mOTU_062	FR_maxbin.283.fasta.contigs	None	100.0	0	1	0	FR_maxbin.283.fasta.contigs	
+mOTU_063	FL_metabat2.376.fa.contigs	99.99195	99.9908	0	1	1	FL_metabat2.376.fa.contigs	FR_maxbin.079.fasta.contigs
+mOTU_064	FR_metabat2.146.fa.contigs	None	100.0	0	1	0	FR_metabat2.146.fa.contigs	
+mOTU_065	FL_maxbin.217.fasta.contigs	96.84280000000001	96.2044	0	1	1	FL_maxbin.217.fasta.contigs	FR_maxbin.264.fasta_sub.contigs
+mOTU_066	FL_maxbin.568.fasta.contigs	None	100.0	0	1	0	FL_maxbin.568.fasta.contigs	
+mOTU_067	FR_maxbin.127.fasta.contigs	None	100.0	0	1	0	FR_maxbin.127.fasta.contigs	
+mOTU_068	FL_metabat2.176.fa.contigs	None	100.0	0	1	0	FL_metabat2.176.fa.contigs	
+mOTU_069	FL_maxbin.031.fasta.contigs	99.65585	99.6525	0	2	0	FR_maxbin.016.fasta.contigs;FL_maxbin.031.fasta.contigs	
+mOTU_070	FR_maxbin.271.fasta.contigs	99.94865	99.9454	0	2	0	FR_maxbin.271.fasta.contigs;FL_metabat2.477.fa.contigs	
+mOTU_071	FL_metabat2.267.fa.contigs	99.86959999999999	99.8034	0	2	0	FL_metabat2.267.fa.contigs;FR_metabat2.399.fa.contigs	
+mOTU_072	FR_metabat2.183.fa.contigs	None	100.0	0	1	0	FR_metabat2.183.fa.contigs	
+mOTU_073	FL_metabat2.795.fa.contigs	None	100.0	0	1	0	FL_metabat2.795.fa.contigs	
+mOTU_074	FR_maxbin.176.fasta.contigs	None	100.0	0	1	0	FR_maxbin.176.fasta.contigs	
+mOTU_075	FL_maxbin.104.fasta.contigs	66.54561666666667	99.6449	2	2	1	FR_maxbin.017.fasta_sub.contigs;FL_maxbin.104.fasta.contigs	FR_metabat2.177.fa.contigs
+mOTU_076	FR_maxbin.018.fasta.contigs	98.783	98.7539	0	2	0	FR_maxbin.018.fasta.contigs;FL_maxbin.052.fasta_sub.contigs	
+mOTU_077	FL_maxbin.176.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.176.fasta_sub.contigs	
+mOTU_078	FL_metabat2.507.fa.contigs	None	100.0	0	1	0	FL_metabat2.507.fa.contigs	
+mOTU_079	FL_metabat2.813.fa.contigs	None	100.0	0	1	0	FL_metabat2.813.fa.contigs	
+mOTU_080	FR_maxbin.033.fasta.contigs	None	100.0	0	1	0	FR_maxbin.033.fasta.contigs	
+mOTU_081	FL_metabat2.605.fa.contigs	None	100.0	0	1	0	FL_metabat2.605.fa.contigs	
+mOTU_082	FR_maxbin.223.fasta.contigs	None	100.0	0	1	0	FR_maxbin.223.fasta.contigs	
+mOTU_083	FL_metabat2.696.fa_sub.contigs	99.39699999999999	99.2534	0	2	0	FR_metabat2.260.fa_sub.contigs;FL_metabat2.696.fa_sub.contigs	
+mOTU_084	FL_metabat2.478.fa.contigs	None	100.0	0	1	0	FL_metabat2.478.fa.contigs	
+mOTU_085	FR_maxbin.035.fasta.contigs	99.99940000000001	99.9993	0	2	0	FR_maxbin.035.fasta.contigs;FL_maxbin.070.fasta.contigs	
+mOTU_086	FL_maxbin.642.fasta.contigs	None	100.0	0	1	0	FL_maxbin.642.fasta.contigs	
+mOTU_087	FL_metabat2.796.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.796.fa_sub.contigs	
+mOTU_088	FL_metabat2.584.fa.contigs	None	100.0	0	1	0	FL_metabat2.584.fa.contigs	
+mOTU_089	FR_maxbin.321.fasta.contigs	99.08515	98.6117	0	1	1	FR_maxbin.321.fasta.contigs	RSP_maxbin.022.fasta.contigs
+mOTU_090	FR_metabat2.153.fa.contigs	None	100.0	0	1	0	FR_metabat2.153.fa.contigs	
+mOTU_091	FR_maxbin.160.fasta.contigs	99.96975	99.9563	0	2	0	FR_maxbin.160.fasta.contigs;FL_maxbin.472.fasta.contigs	
+mOTU_092	FR_metabat2.427.fa.contigs	None	99.9999	0	1	0	FR_metabat2.427.fa.contigs	
+mOTU_093	FL_maxbin.636.fasta.contigs	99.99725000000001	99.9966	0	2	0	FL_maxbin.636.fasta.contigs;FR_maxbin.232.fasta.contigs	
+mOTU_094	FL_metabat2.520.fa.contigs	99.88825	99.8359	0	1	1	FL_metabat2.520.fa.contigs	FR_maxbin.059.fasta_sub.contigs
+mOTU_095	FL_maxbin.010.fasta.contigs	99.92835	99.9142	0	2	0	FL_maxbin.010.fasta.contigs;FR_maxbin.258.fasta.contigs	
+mOTU_096	FR_maxbin.261.fasta.contigs	99.87979999999999	99.8607	0	2	0	FR_maxbin.261.fasta.contigs;FL_maxbin.496.fasta.contigs	
+mOTU_097	FL_maxbin.593.fasta.contigs	None	100.0	0	1	0	FL_maxbin.593.fasta.contigs	
+mOTU_098	FL_maxbin.227.fasta.contigs	99.85955000000001	99.7236	0	2	0	FR_metabat2.190.fa.contigs;FL_maxbin.227.fasta.contigs	
+mOTU_099	FL_maxbin.014.fasta.contigs	98.797	98.666	0	2	0	FR_maxbin.173.fasta.contigs;FL_maxbin.014.fasta.contigs	
+mOTU_100	FL_metabat2.365.fa.contigs	99.9863	99.9801	0	1	1	FL_metabat2.365.fa.contigs	FR_maxbin.137.fasta_sub.contigs
+mOTU_101	FL_maxbin.036.fasta.contigs	None	100.0	0	1	0	FL_maxbin.036.fasta.contigs	
+mOTU_102	FR_metabat2.54.fa.contigs	99.66454999999999	99.6591	0	1	1	FR_metabat2.54.fa.contigs	FL_maxbin.007.fasta.contigs
+mOTU_103	FL_maxbin.190.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.190.fasta.contigs	
+mOTU_104	FL_maxbin.206.fasta.contigs	99.99459999999999	99.9914	0	2	0	FR_maxbin.036.fasta.contigs;FL_maxbin.206.fasta.contigs	
+mOTU_105	FR_metabat2.244.fa.contigs	None	99.9999	0	1	0	FR_metabat2.244.fa.contigs	
+mOTU_106	FL_maxbin.597.fasta.contigs	None	100.0	0	1	0	FL_maxbin.597.fasta.contigs	
+mOTU_107	FL_maxbin.603.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.603.fasta.contigs	
+mOTU_108	FL_maxbin.068.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.068.fasta.contigs	
+mOTU_109	FL_metabat2.481.fa.contigs	99.09835000000001	98.7669	0	1	1	FL_metabat2.481.fa.contigs	FR_metabat2.4.fa_sub.contigs
+mOTU_110	FR_maxbin.047.fasta.contigs	99.33885000000001	99.2241	0	1	1	FR_maxbin.047.fasta.contigs	FL_metabat2.515.fa.contigs
+mOTU_111	FR_maxbin.125.fasta_sub.contigs	None	100.0	0	1	0	FR_maxbin.125.fasta_sub.contigs	
+mOTU_112	FL_metabat2.441.fa.contigs	99.76480000000001	99.6204	0	2	0	FL_metabat2.441.fa.contigs;FR_metabat2.7.fa.contigs	
+mOTU_113	FL_maxbin.120.fasta.contigs	None	100.0	0	1	0	FL_maxbin.120.fasta.contigs	
+mOTU_114	FR_maxbin.179.fasta.contigs	99.55335	99.3503	0	1	1	FR_maxbin.179.fasta.contigs	FL_maxbin.013.fasta_sub.contigs
+mOTU_115	FL_metabat2.40.fa.contigs	98.8172	98.4633	0	1	1	FL_metabat2.40.fa.contigs	FR_metabat2.62.fa.contigs
+mOTU_116	FR_maxbin.119.fasta.contigs	None	99.9999	0	1	0	FR_maxbin.119.fasta.contigs	
+mOTU_117	FL_metabat2.27.fa.contigs	None	99.9999	0	1	0	FL_metabat2.27.fa.contigs	
+mOTU_118	FL_maxbin.530.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.530.fasta_sub.contigs	
+mOTU_119	FL_metabat2.439.fa.contigs	None	100.0	0	1	0	FL_metabat2.439.fa.contigs	
+mOTU_120	FR_metabat2.172.fa.contigs	None	99.9999	0	1	0	FR_metabat2.172.fa.contigs	
+mOTU_121	FL_maxbin.394.fasta.contigs	None	100.0	0	1	0	FL_maxbin.394.fasta.contigs	
+mOTU_122	FR_maxbin.075.fasta_sub.contigs	None	100.0	0	1	0	FR_maxbin.075.fasta_sub.contigs	
+mOTU_123	FL_metabat2.748.fa.contigs	None	100.0	0	1	0	FL_metabat2.748.fa.contigs	
+mOTU_124	FL_metabat2.733.fa.contigs	None	100.0	0	1	0	FL_metabat2.733.fa.contigs	
+mOTU_125	FL_maxbin.395.fasta.contigs	None	100.0	0	1	0	FL_maxbin.395.fasta.contigs	
+mOTU_126	FL_metabat2.804.fa.contigs	None	100.0	0	1	0	FL_metabat2.804.fa.contigs	
+mOTU_127	FL_metabat2.56.fa.contigs	99.38355	99.3733	0	2	0	FL_metabat2.56.fa.contigs;FR_metabat2.125.fa.contigs	
+mOTU_128	RF_maxbin.001.fasta.contigs	None	100.0	0	1	0	RF_maxbin.001.fasta.contigs	
+mOTU_129	FL_metabat2.529.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.529.fa_sub.contigs	
+mOTU_130	FL_maxbin.494.fasta.contigs	None	100.0	0	1	0	FL_maxbin.494.fasta.contigs	
+mOTU_131	FL_metabat2.246.fa_sub.contigs	None	99.9999	0	1	0	FL_metabat2.246.fa_sub.contigs	
+mOTU_132	FL_metabat2.364.fa.contigs	None	100.0	0	1	0	FL_metabat2.364.fa.contigs	
+mOTU_133	FR_maxbin.028.fasta.contigs	99.9119	99.8863	0	2	0	FR_maxbin.028.fasta.contigs;FL_maxbin.029.fasta.contigs	
+mOTU_134	FL_maxbin.072.fasta.contigs	99.5065	99.2437	0	1	1	FL_maxbin.072.fasta.contigs	FR_metabat2.52.fa.contigs
+mOTU_135	FR_metabat2.121.fa.contigs	97.8082	97.6778	0	1	1	FR_metabat2.121.fa.contigs	FL_metabat2.601.fa.contigs
+mOTU_136	FR_metabat2.188.fa.contigs	None	100.0	0	1	0	FR_metabat2.188.fa.contigs	
+mOTU_137	FL_maxbin.037.fasta.contigs	99.07865000000001	98.8322	0	1	1	FL_maxbin.037.fasta.contigs	FR_maxbin.319.fasta.contigs
+mOTU_138	FL_metabat2.325.fa.contigs	None	100.0	0	1	0	FL_metabat2.325.fa.contigs	
+mOTU_139	FL_maxbin.012.fasta.contigs	99.26105	99.033	0	1	1	FL_maxbin.012.fasta.contigs	FR_maxbin.255.fasta_sub.contigs
+mOTU_140	FL_metabat2.666.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.666.fa_sub.contigs	
+mOTU_141	FR_maxbin.171.fasta.contigs	None	100.0	0	1	0	FR_maxbin.171.fasta.contigs	
+mOTU_142	FR_maxbin.282.fasta_sub.contigs	99.53710000000001	99.202	0	1	1	FR_maxbin.282.fasta_sub.contigs	FL_metabat2.328.fa.contigs
+mOTU_143	FL_metabat2.123.fa.contigs	None	100.0	0	1	0	FL_metabat2.123.fa.contigs	
+mOTU_144	FR_maxbin.063.fasta.contigs	None	100.0	0	1	0	FR_maxbin.063.fasta.contigs	
+mOTU_145	FR_metabat2.228.fa.contigs	None	100.0	0	1	0	FR_metabat2.228.fa.contigs	
+mOTU_146	FL_metabat2.101.fa.contigs	None	99.9999	0	1	0	FL_metabat2.101.fa.contigs	
+mOTU_147	FL_metabat2.288.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.288.fa_sub.contigs	
+mOTU_148	FL_maxbin.316.fasta.contigs	None	100.0	0	1	0	FL_maxbin.316.fasta.contigs	
+mOTU_149	FL_maxbin.572.fasta.contigs	None	100.0	0	1	0	FL_maxbin.572.fasta.contigs	
+mOTU_150	FL_maxbin.437.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.437.fasta_sub.contigs	
+mOTU_151	FL_maxbin.074.fasta.contigs	None	100.0	0	1	0	FL_maxbin.074.fasta.contigs	
+mOTU_152	FL_metabat2.130.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.130.fa_sub.contigs	
+mOTU_153	FL_maxbin.327.fasta.contigs	None	100.0	0	1	0	FL_maxbin.327.fasta.contigs	
+mOTU_154	FR_metabat2.158.fa.contigs	99.94495	99.942	0	2	0	FL_metabat2.191.fa.contigs;FR_metabat2.158.fa.contigs	
+mOTU_155	FL_maxbin.584.fasta.contigs	99.67564999999999	99.5505	0	2	0	FR_maxbin.192.fasta.contigs;FL_maxbin.584.fasta.contigs	
+mOTU_156	FL_metabat2.809.fa.contigs	None	100.0	0	1	0	FL_metabat2.809.fa.contigs	
+mOTU_157	FR_maxbin.301.fasta.contigs	None	100.0	0	1	0	FR_maxbin.301.fasta.contigs	
+mOTU_158	FL_maxbin.643.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.643.fasta.contigs	
+mOTU_159	FR_maxbin.022.fasta.contigs	None	100.0	0	1	0	FR_maxbin.022.fasta.contigs	
+mOTU_160	FL_metabat2.331.fa.contigs	99.2059	98.8965	0	1	1	FL_metabat2.331.fa.contigs	FR_maxbin.298.fasta_sub.contigs
+mOTU_161	FL_metabat2.744.fa.contigs	None	100.0	0	1	0	FL_metabat2.744.fa.contigs	
+mOTU_162	FL_metabat2.576.fa.contigs	None	100.0	0	1	0	FL_metabat2.576.fa.contigs	
+mOTU_163	FL_metabat2.777.fa.contigs	None	100.0	0	1	0	FL_metabat2.777.fa.contigs	
+mOTU_164	FL_metabat2.784.fa.contigs	99.58825	99.4929	0	2	0	FR_metabat2.294.fa.contigs;FL_metabat2.784.fa.contigs	
+mOTU_165	FR_metabat2.229.fa_sub.contigs	None	100.0	0	1	0	FR_metabat2.229.fa_sub.contigs	
+mOTU_166	FR_maxbin.154.fasta.contigs	None	99.9999	0	1	0	FR_maxbin.154.fasta.contigs	
+mOTU_167	FL_maxbin.003.fasta.contigs	99.45505	99.3372	0	2	0	FL_maxbin.003.fasta.contigs;FR_maxbin.305.fasta.contigs	
+mOTU_168	FL_metabat2.303.fa.contigs	99.9858	99.9733	0	1	1	FL_metabat2.303.fa.contigs	FR_metabat2.364.fa.contigs
+mOTU_169	FR_maxbin.164.fasta.contigs	99.9388	99.9036	0	2	0	FR_maxbin.164.fasta.contigs;FL_maxbin.034.fasta.contigs	
+mOTU_170	FL_maxbin.506.fasta.contigs	None	100.0	0	1	0	FL_maxbin.506.fasta.contigs	
+mOTU_171	FL_metabat2.680.fa.contigs	None	100.0	0	1	0	FL_metabat2.680.fa.contigs	
+mOTU_172	FR_maxbin.043.fasta.contigs	99.997	99.9964	0	2	0	FL_maxbin.646.fasta.contigs;FR_maxbin.043.fasta.contigs	
+mOTU_173	FL_maxbin.018.fasta.contigs	None	100.0	0	1	0	FL_maxbin.018.fasta.contigs	
+mOTU_174	FR_maxbin.314.fasta.contigs	99.2401	98.8917	0	1	1	FR_maxbin.314.fasta.contigs	FL_maxbin.640.fasta.contigs
+mOTU_175	FR_metabat2.233.fa.contigs	99.2659	99.0128	0	2	0	FL_metabat2.100.fa.contigs;FR_metabat2.233.fa.contigs	
+mOTU_176	FL_maxbin.602.fasta.contigs	None	100.0	0	1	0	FL_maxbin.602.fasta.contigs	
+mOTU_177	FR_maxbin.078.fasta.contigs	None	100.0	0	1	0	FR_maxbin.078.fasta.contigs	
+mOTU_178	FR_metabat2.321.fa.contigs	None	100.0	0	1	0	FR_metabat2.321.fa.contigs	
+mOTU_179	FL_maxbin.021.fasta.contigs	None	100.0	0	1	0	FL_maxbin.021.fasta.contigs	
+mOTU_180	FR_maxbin.019.fasta.contigs	99.7327	99.6581	0	2	0	FL_maxbin.534.fasta_sub.contigs;FR_maxbin.019.fasta.contigs	
+mOTU_181	FL_maxbin.022.fasta.contigs	None	100.0	0	1	0	FL_maxbin.022.fasta.contigs	
+mOTU_182	FL_metabat2.569.fa.contigs	None	100.0	0	1	0	FL_metabat2.569.fa.contigs	
+mOTU_183	FR_metabat2.155.fa.contigs	99.45885000000001	99.4158	0	2	0	FL_metabat2.251.fa.contigs;FR_metabat2.155.fa.contigs	
+mOTU_184	FL_maxbin.110.fasta.contigs	66.5808	99.7684	2	1	2	FL_maxbin.110.fasta.contigs	FR_maxbin.096.fasta_sub.contigs;FR_metabat2.425.fa.contigs
+mOTU_185	FL_metabat2.308.fa.contigs	None	100.0	0	1	0	FL_metabat2.308.fa.contigs	
+mOTU_186	FR_maxbin.309.fasta.contigs	None	100.0	0	1	0	FR_maxbin.309.fasta.contigs	
+mOTU_187	FL_maxbin.528.fasta.contigs	None	100.0	0	1	0	FL_maxbin.528.fasta.contigs	
+mOTU_188	FR_metabat2.17.fa.contigs	None	100.0	0	1	0	FR_metabat2.17.fa.contigs	
+mOTU_189	FR_metabat2.352.fa.contigs	None	100.0	0	1	0	FR_metabat2.352.fa.contigs	
+mOTU_190	FL_metabat2.683.fa.contigs	None	100.0	0	1	0	FL_metabat2.683.fa.contigs	
+mOTU_191	RF_maxbin.002.fasta.contigs	None	100.0	0	1	0	RF_maxbin.002.fasta.contigs	
+mOTU_192	FL_maxbin.109.fasta.contigs	None	100.0	0	1	0	FL_maxbin.109.fasta.contigs	
+mOTU_193	FL_metabat2.414.fa.contigs	None	100.0	0	1	0	FL_metabat2.414.fa.contigs	
+mOTU_194	FR_metabat2.181.fa.contigs	None	100.0	0	1	0	FR_metabat2.181.fa.contigs	
+mOTU_195	FL_maxbin.212.fasta.contigs	None	100.0	0	1	0	FL_maxbin.212.fasta.contigs	
+mOTU_196	FR_maxbin.062.fasta_sub.contigs	99.96785	99.9508	0	2	0	FL_maxbin.259.fasta.contigs;FR_maxbin.062.fasta_sub.contigs	
+mOTU_197	FL_maxbin.513.fasta.contigs	None	100.0	0	1	0	FL_maxbin.513.fasta.contigs	
+mOTU_198	FR_maxbin.110.fasta.contigs	None	99.9999	0	1	0	FR_maxbin.110.fasta.contigs	
+mOTU_199	FL_maxbin.046.fasta.contigs	None	100.0	0	1	0	FL_maxbin.046.fasta.contigs	
+mOTU_200	FL_maxbin.023.fasta.contigs	None	100.0	0	1	0	FL_maxbin.023.fasta.contigs	
+mOTU_201	FL_maxbin.026.fasta.contigs	99.3164	99.2968	0	1	1	FL_maxbin.026.fasta.contigs	FR_metabat2.245.fa.contigs
+mOTU_202	FR_metabat2.194.fa_sub.contigs	None	100.0	0	1	0	FR_metabat2.194.fa_sub.contigs	
+mOTU_203	FL_metabat2.436.fa.contigs	None	99.9999	0	1	0	FL_metabat2.436.fa.contigs	
+mOTU_204	FR_metabat2.403.fa.contigs	None	100.0	0	1	0	FR_metabat2.403.fa.contigs	
+mOTU_205	FR_maxbin.069.fasta.contigs	99.4969	99.3646	0	1	1	FR_maxbin.069.fasta.contigs	FL_maxbin.058.fasta.contigs
+mOTU_206	FL_metabat2.136.fa.contigs	None	100.0	0	1	0	FL_metabat2.136.fa.contigs	
+mOTU_207	FL_maxbin.203.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.203.fasta.contigs	
+mOTU_208	FL_maxbin.453.fasta.contigs	None	100.0	0	1	0	FL_maxbin.453.fasta.contigs	
+mOTU_209	FR_metabat2.357.fa.contigs	99.47995	99.2906	0	1	1	FR_metabat2.357.fa.contigs	FL_maxbin.586.fasta_sub.contigs
+mOTU_210	FL_metabat2.565.fa.contigs	None	100.0	0	1	0	FL_metabat2.565.fa.contigs	
+mOTU_211	FL_maxbin.208.fasta.contigs	None	100.0	0	1	0	FL_maxbin.208.fasta.contigs	
+mOTU_212	FR_maxbin.057.fasta.contigs	99.5856	99.1813	0	1	1	FR_maxbin.057.fasta.contigs	FL_maxbin.482.fasta.contigs
+mOTU_213	FR_maxbin.116.fasta_sub.contigs	None	100.0	0	1	0	FR_maxbin.116.fasta_sub.contigs	
+mOTU_214	FL_maxbin.096.fasta.contigs	None	100.0	0	1	0	FL_maxbin.096.fasta.contigs	
+mOTU_215	FL_maxbin.106.fasta.contigs	None	100.0	0	1	0	FL_maxbin.106.fasta.contigs	
+mOTU_216	FL_metabat2.38.fa.contigs	None	100.0	0	1	0	FL_metabat2.38.fa.contigs	
+mOTU_217	FL_metabat2.445.fa.contigs	None	100.0	0	1	0	FL_metabat2.445.fa.contigs	
+mOTU_218	FL_maxbin.580.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.580.fasta.contigs	
+mOTU_219	FL_maxbin.065.fasta.contigs	None	100.0	0	1	0	FL_maxbin.065.fasta.contigs	
+mOTU_220	FR_maxbin.084.fasta_sub.contigs	None	100.0	0	1	0	FR_maxbin.084.fasta_sub.contigs	
+mOTU_221	FL_maxbin.532.fasta.contigs	99.64505	99.3588	0	1	1	FL_maxbin.532.fasta.contigs	FR_maxbin.227.fasta_sub.contigs
+mOTU_222	FL_metabat2.58.fa.contigs	98.92795	98.8792	0	1	1	FL_metabat2.58.fa.contigs	FR_maxbin.212.fasta_sub.contigs
+mOTU_223	FL_metabat2.751.fa.contigs	None	99.9999	0	1	0	FL_metabat2.751.fa.contigs	
+mOTU_224	FL_metabat2.133.fa.contigs	None	99.9999	0	1	0	FL_metabat2.133.fa.contigs	
+mOTU_225	FL_maxbin.607.fasta.contigs	None	100.0	0	1	0	FL_maxbin.607.fasta.contigs	
+mOTU_226	FL_metabat2.442.fa.contigs	None	100.0	0	1	0	FL_metabat2.442.fa.contigs	
+mOTU_227	FL_maxbin.297.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.297.fasta.contigs	
+mOTU_228	FR_metabat2.210.fa.contigs	None	100.0	0	1	0	FR_metabat2.210.fa.contigs	
+mOTU_229	FR_maxbin.144.fasta.contigs	98.5338	98.1358	0	1	1	FR_maxbin.144.fasta.contigs	FL_maxbin.459.fasta_sub.contigs
+mOTU_230	FR_maxbin.225.fasta.contigs	99.9216	99.9186	0	2	0	FR_maxbin.225.fasta.contigs;FL_maxbin.644.fasta.contigs	
+mOTU_231	FL_metabat2.773.fa.contigs	None	100.0	0	1	0	FL_metabat2.773.fa.contigs	
+mOTU_232	FR_metabat2.308.fa.contigs	None	100.0	0	1	0	FR_metabat2.308.fa.contigs	
+mOTU_233	FR_maxbin.015.fasta.contigs	79.2144	78.2134	1	1	2	FR_maxbin.015.fasta.contigs	FL_maxbin.598.fasta_sub.contigs;FL_maxbin.473.fasta.contigs
+mOTU_234	FL_maxbin.521.fasta.contigs	None	100.0	0	1	0	FL_maxbin.521.fasta.contigs	
+mOTU_235	FL_metabat2.145.fa.contigs	98.7779	98.2552	0	1	1	FL_metabat2.145.fa.contigs	FR_maxbin.300.fasta_sub.contigs
+mOTU_236	FR_maxbin.032.fasta.contigs	99.8587	99.8496	0	2	0	FR_maxbin.032.fasta.contigs;FL_metabat2.546.fa.contigs	
+mOTU_237	FL_maxbin.526.fasta.contigs	None	100.0	0	1	0	FL_maxbin.526.fasta.contigs	
+mOTU_238	FL_maxbin.092.fasta.contigs	66.38626666666667	99.4928	2	1	2	FL_maxbin.092.fasta.contigs	FR_maxbin.007.fasta.contigs;FR_maxbin.009.fasta.contigs
+mOTU_239	FL_maxbin.122.fasta.contigs	None	100.0	0	1	0	FL_maxbin.122.fasta.contigs	
+mOTU_240	FR_maxbin.281.fasta.contigs	None	100.0	0	1	0	FR_maxbin.281.fasta.contigs	
+mOTU_241	FL_maxbin.493.fasta.contigs	None	100.0	0	1	0	FL_maxbin.493.fasta.contigs	
+mOTU_242	FR_metabat2.180.fa.contigs	None	100.0	0	1	0	FR_metabat2.180.fa.contigs	
+mOTU_243	FR_maxbin.040.fasta.contigs	99.97825	99.9741	0	2	0	FR_maxbin.040.fasta.contigs;FL_metabat2.531.fa.contigs	
+mOTU_244	FR_maxbin.109.fasta.contigs	99.91775000000001	99.9175	0	1	1	FR_maxbin.109.fasta.contigs	FL_maxbin.019.fasta.contigs
+mOTU_245	FL_metabat2.738.fa.contigs	None	99.9999	0	1	0	FL_metabat2.738.fa.contigs	
+mOTU_246	FR_maxbin.201.fasta.contigs	None	100.0	0	1	0	FR_maxbin.201.fasta.contigs	
+mOTU_247	FL_metabat2.785.fa_sub.contigs	None	100.0	0	1	0	FL_metabat2.785.fa_sub.contigs	
+mOTU_248	FL_maxbin.006.fasta.contigs	None	100.0	0	1	0	FL_maxbin.006.fasta.contigs	
+mOTU_249	FL_maxbin.582.fasta_sub.contigs	98.42795000000001	98.0421	0	1	1	FL_maxbin.582.fasta_sub.contigs	FR_maxbin.251.fasta_sub.contigs
+mOTU_250	FL_metabat2.260.fa.contigs	None	100.0	0	1	0	FL_metabat2.260.fa.contigs	
+mOTU_251	FL_maxbin.002.fasta.contigs	99.53555	99.2616	0	1	1	FL_maxbin.002.fasta.contigs	FR_metabat2.64.fa.contigs
+mOTU_252	FL_metabat2.703.fa.contigs	None	100.0	0	1	0	FL_metabat2.703.fa.contigs	
+mOTU_253	FL_maxbin.537.fasta.contigs	None	100.0	0	1	0	FL_maxbin.537.fasta.contigs	
+mOTU_254	FL_maxbin.345.fasta.contigs	98.69739999999999	98.5692	0	1	1	FL_maxbin.345.fasta.contigs	RF_maxbin.017.fasta.contigs
+mOTU_255	FL_maxbin.303.fasta.contigs	None	100.0	0	1	0	FL_maxbin.303.fasta.contigs	
+mOTU_256	FR_maxbin.115.fasta_sub.contigs	99.7782	99.7458	0	1	1	FR_maxbin.115.fasta_sub.contigs	FL_maxbin.194.fasta_sub.contigs
+mOTU_257	FL_metabat2.404.fa.contigs	98.53200000000001	97.9047	0	1	1	FL_metabat2.404.fa.contigs	FR_metabat2.67.fa_sub.contigs
+mOTU_258	FL_maxbin.051.fasta.contigs	None	100.0	0	1	0	FL_maxbin.051.fasta.contigs	
+mOTU_259	FL_maxbin.573.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.573.fasta.contigs	
+mOTU_260	FR_metabat2.3.fa.contigs	None	99.9999	0	1	0	FR_metabat2.3.fa.contigs	
+mOTU_261	FL_maxbin.041.fasta.contigs	98.62815	98.1419	0	1	1	FL_maxbin.041.fasta.contigs	FR_maxbin.151.fasta_sub.contigs
+mOTU_262	FL_maxbin.069.fasta.contigs	99.09530000000001	98.5663	0	1	1	FL_maxbin.069.fasta.contigs	FR_maxbin.279.fasta.contigs
+mOTU_263	FR_maxbin.081.fasta.contigs	None	100.0	0	1	0	FR_maxbin.081.fasta.contigs	
+mOTU_264	FL_metabat2.309.fa.contigs	None	100.0	0	1	0	FL_metabat2.309.fa.contigs	
+mOTU_265	FL_maxbin.565.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.565.fasta.contigs	
+mOTU_266	FL_metabat2.351.fa.contigs	98.863	98.6221	0	1	1	FL_metabat2.351.fa.contigs	FR_maxbin.306.fasta.contigs
+mOTU_267	FL_maxbin.448.fasta.contigs	None	100.0	0	1	0	FL_maxbin.448.fasta.contigs	
+mOTU_268	FL_metabat2.211.fa.contigs	None	100.0	0	1	0	FL_metabat2.211.fa.contigs	
+mOTU_269	FL_metabat2.257.fa.contigs	None	100.0	0	1	0	FL_metabat2.257.fa.contigs	
+mOTU_270	FL_metabat2.568.fa.contigs	None	100.0	0	1	0	FL_metabat2.568.fa.contigs	
+mOTU_271	FL_maxbin.066.fasta.contigs	None	100.0	0	1	0	FL_maxbin.066.fasta.contigs	
+mOTU_272	FL_maxbin.415.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.415.fasta.contigs	
+mOTU_273	FR_metabat2.126.fa.contigs	97.71735000000001	97.254	0	1	1	FR_metabat2.126.fa.contigs	FL_maxbin.444.fasta_sub.contigs
+mOTU_274	FL_maxbin.283.fasta.contigs	None	100.0	0	1	0	FL_maxbin.283.fasta.contigs	
+mOTU_275	FR_metabat2.289.fa_sub.contigs	None	100.0	0	1	0	FR_metabat2.289.fa_sub.contigs	
+mOTU_276	FR_maxbin.260.fasta.contigs	99.8982	99.8733	0	1	1	FR_maxbin.260.fasta.contigs	FL_maxbin.632.fasta.contigs
+mOTU_277	FR_metabat2.277.fa.contigs	None	100.0	0	1	0	FR_metabat2.277.fa.contigs	
+mOTU_278	FR_maxbin.276.fasta.contigs	None	100.0	0	1	0	FR_maxbin.276.fasta.contigs	
+mOTU_279	FL_metabat2.430.fa.contigs	None	100.0	0	1	0	FL_metabat2.430.fa.contigs	
+mOTU_280	FR_maxbin.259.fasta.contigs	None	100.0	0	1	0	FR_maxbin.259.fasta.contigs	
+mOTU_281	FR_metabat2.322.fa.contigs	None	100.0	0	1	0	FR_metabat2.322.fa.contigs	
+mOTU_282	FL_metabat2.263.fa_sub.contigs	None	99.9999	0	1	0	FL_metabat2.263.fa_sub.contigs	
+mOTU_283	FL_maxbin.585.fasta.contigs	None	99.9999	0	1	0	FL_maxbin.585.fasta.contigs	
+mOTU_284	FL_maxbin.033.fasta_sub.contigs	None	100.0	0	1	0	FL_maxbin.033.fasta_sub.contigs	
+mOTU_285	FR_metabat2.232.fa.contigs	None	100.0	0	1	0	FR_metabat2.232.fa.contigs	
+mOTU_286	FL_metabat2.611.fa.contigs	None	100.0	0	1	0	FL_metabat2.611.fa.contigs	

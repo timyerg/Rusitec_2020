@@ -1,0 +1,45 @@
+primer	CAGYGCASCAGKCGMGAA	NONE	Column1	_1
+barcode	AAGCTA	NONE	20_rstc	
+barcode	AAGGAT	NONE	23_rstc	
+barcode	AAGGCA	NONE	99_rstc	
+barcode	AAGTAA	NONE	100_rstc	
+barcode	CGAGAG	NONE	123_rstc	
+barcode	CGCATA	NONE	124_rstc	
+barcode	GCTCCA	NONE	125_rstc	
+barcode	GGTTAT	NONE	126_rstc	
+barcode	AACGCA	NONE	127_rstc	
+barcode	AACTGC	NONE	128_rstc	
+barcode	AAGTCG	NONE	129_rstc	
+barcode	ATAACT	NONE	130_rstc	
+barcode	ATAGAC	NONE	131_rstc	
+barcode	ATATTG	NONE	132_rstc	
+barcode	CAAGAG	NONE	133_rstc	
+barcode	CAATTC	NONE	134_rstc	
+barcode	CAGGCC	NONE	135_rstc	
+barcode	CCAACG	NONE	136_rstc	
+barcode	GTTCCG	NONE	137_rstc	
+barcode	TACGGT	NONE	138_rstc	
+barcode	TACTTG	NONE	139_rstc	
+barcode	TATCTC	NONE	140_rstc	
+barcode	TCATAA	NONE	141_rstc	
+barcode	TCCGAG	NONE	142_rstc	
+barcode	AACCGT	NONE	143_rstc	
+barcode	AACGCG	NONE	144_rstc	
+barcode	AACTAC	NONE	145_rstc	
+barcode	AACTCT	NONE	146_rstc	
+barcode	AACTGG	NONE	147_rstc	
+barcode	CCAAGG	NONE	148_rstc	
+barcode	CCAATT	NONE	149_rstc	
+barcode	CCAGAT	NONE	150_rstc	
+barcode	CCAGCG	NONE	151_rstc	
+barcode	CCAGGC	NONE	152_rstc	
+barcode	CCTATC	NONE	153_rstc	
+barcode	GGAATG	NONE	154_rstc	
+barcode	GGACCT	NONE	155_rstc	
+barcode	GGAGTA	NONE	156_rstc	
+barcode	GGCAGG	NONE	157_rstc	
+barcode	TAGAAT	NONE	158_rstc	
+barcode	TATTAC	NONE	pooled #1-3	
+barcode	TCCTAA	NONE	pooled #4-6	
+barcode	TCGCAT	NONE	pooled #80-82	
+barcode	TCTGAC	NONE	pooled #83-85	

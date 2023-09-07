@@ -1,0 +1,163 @@
+Sample No.	Date of Sampling	Sample Name	Description	Description 2	Microbial DNA
+2020-56-300	6/17/2020	SP d0-C1-run1	Rumen solid phase from day 0 (start)	From cow 1 run 1	1
+2020-56-301	6/17/2020	SP d0-C2-run1	Rumen solid phase from day 0 (start)	From cow 2 run 1	2
+2020-56-302	6/17/2020	SP d0-C3-run1	Rumen solid phase from day 0 (start)	From cow 3 run 1	3
+2020-56-303	6/17/2020	RF d0-C1-run1	Rumen fluid from day 0 (start)	From cow 1 run 1	4
+2020-56-304	6/17/2020	RF d0-C2-run1	Rumen fluid from day 0 (start)	From cow 2 run 1	5
+2020-56-305	6/17/2020	RF d0-C3-run1	Rumen fluid from day 0 (start)	From cow 3 run 1	6
+2020-56-306	6/17/2020	RF d0-mixed-run1	Rumen fluid from day 0 (start)	From cow 1-3 and mixed with buffer run 1	7
+2020-56-307	6/30/2020	Feed residue d13 (24h) Trt1-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 1 run 1 heat pump 1	8
+2020-56-308	6/30/2020	Feed residue d13 (48h) Trt1-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 1 run 1 heat pump 1	9
+2020-56-309	6/30/2020	Feed residue d13 (24h) Trt1-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 1 run 1 heat pump 2	10
+2020-56-310	6/30/2020	Feed residue d13 (48h) Trt1-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 1 run 1 heat pump 2	11
+2020-56-311	6/30/2020	Feed residue d13 (24h) Trt2-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 2 run 1 heat pump 1	12
+2020-56-312	6/30/2020	Feed residue d13 (48h) Trt2-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 2 run 1 heat pump 1	13
+2020-56-313	6/30/2020	Feed residue d13 (24h) Trt2-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 2 run 1 heat pump 2	14
+2020-56-314	6/30/2020	Feed residue d13 (48h) Trt2-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 2 run 1 heat pump 2	15
+2020-56-315	6/30/2020	Feed residue d13 (24h) Trt3-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 3 run 1 heat pump 1	16
+2020-56-316	6/30/2020	Feed residue d13 (48h) Trt3-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 3 run 1 heat pump 1	17
+2020-56-317	6/30/2020	Feed residue d13 (24h) Trt3-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 3 run 1 heat pump 2	18
+2020-56-318	6/30/2020	Feed residue d13 (48h) Trt3-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 3 run 1 heat pump 2	19
+2020-56-319	6/30/2020	Feed residue d13 (24h) Trt4-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 4 run 1 heat pump 1	20
+2020-56-320	6/30/2020	Feed residue d13 (48h) Trt4-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 4 run 1 heat pump 1	21
+2020-56-321	6/30/2020	Feed residue d13 (24h) Trt4-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 4 run 1 heat pump 2	22
+2020-56-322	6/30/2020	Feed residue d13 (48h) Trt4-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 4 run 1 heat pump 2	23
+2020-56-323	6/30/2020	Feed residue d13 (24h) Trt5-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 5 run 1 heat pump 1	24
+2020-56-324	6/30/2020	Feed residue d13 (48h) Trt5-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 5 run 1 heat pump 1	25
+2020-56-325	6/30/2020	Feed residue d13 (24h) Trt5-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 5 run 1 heat pump 2	26
+2020-56-326	6/30/2020	Feed residue d13 (48h) Trt5-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 5 run 1 heat pump 2	27
+2020-56-327	6/30/2020	Feed residue d13 (24h) Trt6-run1-HP1	Feed residue at day 13 from 24h bag	Treatment 6 run 1 heat pump 1	28
+2020-56-328	6/30/2020	Feed residue d13 (48h) Trt6-run1-HP1	Feed residue at day 13 from 48h bag	Treatment 6 run 1 heat pump 1	29
+2020-56-329	6/30/2020	Feed residue d13 (24h) Trt6-run1-HP2	Feed residue at day 13 from 24h bag	Treatment 6 run 1 heat pump 2	30
+2020-56-330	6/30/2020	Feed residue d13 (48h) Trt6-run1-HP2	Feed residue at day 13 from 48h bag	Treatment 6 run 1 heat pump 2	31
+2020-56-331	6/24/2020	Fermenter liquid d7 Trt1-run1-HP1	Fermenter liquid at day 7	Treatment 1 run 1 heat pump 1	32
+2020-56-332	6/24/2020	Fermenter liquid d7 Trt1-run1-HP2	Fermenter liquid at day 7	Treatment 1 run 1 heat pump 2	33
+2020-56-333	6/24/2020	Fermenter liquid d7 Trt2-run1-HP1	Fermenter liquid at day 7	Treatment 2 run 1 heat pump 1	34
+2020-56-334	6/24/2020	Fermenter liquid d7 Trt2-run1-HP2	Fermenter liquid at day 7	Treatment 2 run 1 heat pump 2	35
+2020-56-335	6/24/2020	Fermenter liquid d7 Trt3-run1-HP1	Fermenter liquid at day 7	Treatment 3 run 1 heat pump 1	36
+2020-56-336	6/24/2020	Fermenter liquid d7 Trt3-run1-HP2	Fermenter liquid at day 7	Treatment 3 run 1 heat pump 2	37
+2020-56-337	6/24/2020	Fermenter liquid d7 Trt4-run1-HP1	Fermenter liquid at day 7	Treatment 4 run 1 heat pump 1	38
+2020-56-338	6/24/2020	Fermenter liquid d7 Trt4-run1-HP2	Fermenter liquid at day 7	Treatment 4 run 1 heat pump 2	39
+2020-56-339	6/24/2020	Fermenter liquid d7 Trt5-run1-HP1	Fermenter liquid at day 7	Treatment 5 run 1 heat pump 1	40
+2020-56-340	6/24/2020	Fermenter liquid d7 Trt5-run1-HP2	Fermenter liquid at day 7	Treatment 5 run 1 heat pump 2	41
+2020-56-341	6/24/2020	Fermenter liquid d7 Trt6-run1-HP1	Fermenter liquid at day 7	Treatment 6 run 1 heat pump 1	42
+2020-56-342	6/24/2020	Fermenter liquid d7 Trt6-run1-HP2	Fermenter liquid at day 7	Treatment 6 run 1 heat pump 2	43
+2020-56-343	6/30/2020	Fermenter liquid d13 Trt1-run1-HP1	Fermenter liquid at day 13	Treatment 1 run 1 heat pump 1	44
+2020-56-344	6/30/2020	Fermenter liquid d13 Trt1-run1-HP2	Fermenter liquid at day 13	Treatment 1 run 1 heat pump 2	45
+2020-56-345	6/30/2020	Fermenter liquid d13 Trt2-run1-HP1	Fermenter liquid at day 13	Treatment 2 run 1 heat pump 1	46
+2020-56-346	6/30/2020	Fermenter liquid d13 Trt2-run1-HP2	Fermenter liquid at day 13	Treatment 2 run 1 heat pump 2	47
+2020-56-347	6/30/2020	Fermenter liquid d13 Trt3-run1-HP1	Fermenter liquid at day 13	Treatment 3 run 1 heat pump 1	48
+2020-56-348	6/30/2020	Fermenter liquid d13 Trt3-run1-HP2	Fermenter liquid at day 13	Treatment 3 run 1 heat pump 2	49
+2020-56-349	6/30/2020	Fermenter liquid d13 Trt4-run1-HP1	Fermenter liquid at day 13	Treatment 4 run 1 heat pump 1	50
+2020-56-350	6/30/2020	Fermenter liquid d13 Trt4-run1-HP2	Fermenter liquid at day 13	Treatment 4 run 1 heat pump 2	51
+2020-56-351	6/30/2020	Fermenter liquid d13 Trt5-run1-HP1	Fermenter liquid at day 13	Treatment 5 run 1 heat pump 1	52
+2020-56-352	6/30/2020	Fermenter liquid d13 Trt5-run1-HP2	Fermenter liquid at day 13	Treatment 5 run 1 heat pump 2	53
+2020-56-353	6/30/2020	Fermenter liquid d13 Trt6-run1-HP1	Fermenter liquid at day 13	Treatment 6 run 1 heat pump 1	54
+2020-56-354	6/30/2020	Fermenter liquid d13 Trt6-run1-HP2	Fermenter liquid at day 13	Treatment 6 run 1 heat pump 2	55
+2020-56-355	6/24/2020	Effluent d7 Trt1-run1-HP1	Effluent at day 7	Treatment 1 run 1 heat pump 1	56
+2020-56-356	6/24/2020	Effluent d7 Trt1-run1-HP2	Effluent at day 7	Treatment 1 run 1 heat pump 2	57
+2020-56-357	6/24/2020	Effluent d7 Trt2-run1-HP1	Effluent at day 7	Treatment 2 run 1 heat pump 1	58
+2020-56-358	6/24/2020	Effluent d7 Trt2-run1-HP2	Effluent at day 7	Treatment 2 run 1 heat pump 2	59
+2020-56-359	6/24/2020	Effluent d7 Trt3-run1-HP1	Effluent at day 7	Treatment 3 run 1 heat pump 1	60
+2020-56-360	6/24/2020	Effluent d7 Trt3-run1-HP2	Effluent at day 7	Treatment 3 run 1 heat pump 2	61
+2020-56-361	6/24/2020	Effluent d7 Trt4-run1-HP1	Effluent at day 7	Treatment 4 run 1 heat pump 1	62
+2020-56-362	6/24/2020	Effluent d7 Trt4-run1-HP2	Effluent at day 7	Treatment 4 run 1 heat pump 2	63
+2020-56-363	6/24/2020	Effluent d7 Trt5-run1-HP1	Effluent at day 7	Treatment 5 run 1 heat pump 1	64
+2020-56-364	6/24/2020	Effluent d7 Trt5-run1-HP2	Effluent at day 7	Treatment 5 run 1 heat pump 2	65
+2020-56-365	6/24/2020	Effluent d7 Trt6-run1-HP1	Effluent at day 7	Treatment 6 run 1 heat pump 1	66
+2020-56-366	6/24/2020	Effluent d7 Trt6-run1-HP2	Effluent at day 7	Treatment 6 run 1 heat pump 2	67
+2020-56-367	6/30/2020	Effluent d13 Trt1-run1-HP1	Effluent at day 13	Treatment 1 run 1 heat pump 1	68
+2020-56-368	6/30/2020	Effluent d13 Trt1-run1-HP2	Effluent at day 13	Treatment 1 run 1 heat pump 2	69
+2020-56-369	6/30/2020	Effluent d13 Trt2-run1-HP1	Effluent at day 13	Treatment 2 run 1 heat pump 1	70
+2020-56-370	6/30/2020	Effluent d13 Trt2-run1-HP2	Effluent at day 13	Treatment 2 run 1 heat pump 2	71
+2020-56-371	6/30/2020	Effluent d13 Trt3-run1-HP1	Effluent at day 13	Treatment 3 run 1 heat pump 1	72
+2020-56-372	6/30/2020	Effluent d13 Trt3-run1-HP2	Effluent at day 13	Treatment 3 run 1 heat pump 2	73
+2020-56-373	6/30/2020	Effluent d13 Trt4-run1-HP1	Effluent at day 13	Treatment 4 run 1 heat pump 1	74
+2020-56-374	6/30/2020	Effluent d13 Trt4-run1-HP2	Effluent at day 13	Treatment 4 run 1 heat pump 2	75
+2020-56-375	6/30/2020	Effluent d13 Trt5-run1-HP1	Effluent at day 13	Treatment 5 run 1 heat pump 1	76
+2020-56-376	6/30/2020	Effluent d13 Trt5-run1-HP2	Effluent at day 13	Treatment 5 run 1 heat pump 2	77
+2020-56-377	6/30/2020	Effluent d13 Trt6-run1-HP1	Effluent at day 13	Treatment 6 run 1 heat pump 1	78
+2020-56-378	6/30/2020	Effluent d13 Trt6-run1-HP2	Effluent at day 13	Treatment 6 run 1 heat pump 2	79
+2020-56-379	7/8/2020	SP d0-C1-run2	Rumen solid phase from day 0 (start)	From cow 1 run 2	80
+2020-56-380	7/8/2020	SP d0-C2-run2	Rumen solid phase from day 0 (start)	From cow 2 run 2	81
+2020-56-381	7/8/2020	SP d0-C3-run2	Rumen solid phase from day 0 (start)	From cow 3 run 2	82
+2020-56-382	7/8/2020	RF d0-C1-run2	Rumen fluid from day 0 (start)	From cow 1 run 2	83
+2020-56-383	7/8/2020	RF d0-C2-run2	Rumen fluid from day 0 (start)	From cow 2 run 2	84
+2020-56-384	7/8/2020	RF d0-C3-run2	Rumen fluid from day 0 (start)	From cow 3 run 2	85
+2020-56-385	7/8/2020	RF d0-mixed-run2	Rumen fluid from day 0 (start)	From cow 1-3 and mixed with buffer run 2	86
+2020-56-386	7/21/2020	Feed residue d13 (24h) Trt1-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 1 run 2 heat pump 1	87
+2020-56-387	7/21/2020	Feed residue d13 (48h) Trt1-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 1 run 2 heat pump 1	88
+2020-56-388	7/21/2020	Feed residue d13 (24h) Trt1-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 1 run 2 heat pump 2	89
+2020-56-389	7/21/2020	Feed residue d13 (48h) Trt1-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 1 run 2 heat pump 2	90
+2020-56-390	7/21/2020	Feed residue d13 (24h) Trt2-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 2 run 2 heat pump 1	91
+2020-56-391	7/21/2020	Feed residue d13 (48h) Trt2-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 2 run 2 heat pump 1	92
+2020-56-392	7/21/2020	Feed residue d13 (24h) Trt2-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 2 run 2 heat pump 2	93
+2020-56-393	7/21/2020	Feed residue d13 (48h) Trt2-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 2 run 2 heat pump 2	94
+2020-56-394	7/21/2020	Feed residue d13 (24h) Trt3-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 3 run 2 heat pump 1	95
+2020-56-395	7/21/2020	Feed residue d13 (48h) Trt3-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 3 run 2 heat pump 1	96
+2020-56-396	7/21/2020	Feed residue d13 (24h) Trt3-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 3 run 2 heat pump 2	97
+2020-56-397	7/21/2020	Feed residue d13 (48h) Trt3-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 3 run 2 heat pump 2	98
+2020-56-398	7/21/2020	Feed residue d13 (24h) Trt4-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 4 run 2 heat pump 1	99
+2020-56-399	7/21/2020	Feed residue d13 (48h) Trt4-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 4 run 2 heat pump 1	100
+2020-56-400	7/21/2020	Feed residue d13 (24h) Trt4-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 4 run 2 heat pump 2	101
+2020-56-401	7/21/2020	Feed residue d13 (48h) Trt4-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 4 run 2 heat pump 2	102
+2020-56-402	7/21/2020	Feed residue d13 (24h) Trt5-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 5 run 2 heat pump 1	103
+2020-56-403	7/21/2020	Feed residue d13 (48h) Trt5-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 5 run 2 heat pump 1	104
+2020-56-404	7/21/2020	Feed residue d13 (24h) Trt5-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 5 run 2 heat pump 2	105
+2020-56-405	7/21/2020	Feed residue d13 (48h) Trt5-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 5 run 2 heat pump 2	106
+2020-56-406	7/21/2020	Feed residue d13 (24h) Trt6-run2-HP1	Feed residue at day 13 from 24h bag	Treatment 6 run 2 heat pump 1	107
+2020-56-407	7/21/2020	Feed residue d13 (48h) Trt6-run2-HP1	Feed residue at day 13 from 48h bag	Treatment 6 run 2 heat pump 1	108
+2020-56-408	7/21/2020	Feed residue d13 (24h) Trt6-run2-HP2	Feed residue at day 13 from 24h bag	Treatment 6 run 2 heat pump 2	109
+2020-56-409	7/21/2020	Feed residue d13 (48h) Trt6-run2-HP2	Feed residue at day 13 from 48h bag	Treatment 6 run 2 heat pump 2	110
+2020-56-410	7/15/2020	Fermenter liquid d7 Trt1-run2-HP1	Fermenter liquid at day 7	Treatment 1 run 2 heat pump 1	111
+2020-56-411	7/15/2020	Fermenter liquid d7 Trt1-run2-HP2	Fermenter liquid at day 7	Treatment 1 run 2 heat pump 2	112
+2020-56-412	7/15/2020	Fermenter liquid d7 Trt2-run2-HP1	Fermenter liquid at day 7	Treatment 2 run 2 heat pump 1	113
+2020-56-413	7/15/2020	Fermenter liquid d7 Trt2-run2-HP2	Fermenter liquid at day 7	Treatment 2 run 2 heat pump 2	114
+2020-56-414	7/15/2020	Fermenter liquid d7 Trt3-run2-HP1	Fermenter liquid at day 7	Treatment 3 run 2 heat pump 1	115
+2020-56-415	7/15/2020	Fermenter liquid d7 Trt3-run2-HP2	Fermenter liquid at day 7	Treatment 3 run 2 heat pump 2	116
+2020-56-416	7/15/2020	Fermenter liquid d7 Trt4-run2-HP1	Fermenter liquid at day 7	Treatment 4 run 2 heat pump 1	117
+2020-56-417	7/15/2020	Fermenter liquid d7 Trt4-run2-HP2	Fermenter liquid at day 7	Treatment 4 run 2 heat pump 2	118
+2020-56-418	7/15/2020	Fermenter liquid d7 Trt5-run2-HP1	Fermenter liquid at day 7	Treatment 5 run 2 heat pump 1	119
+2020-56-419	7/15/2020	Fermenter liquid d7 Trt5-run2-HP2	Fermenter liquid at day 7	Treatment 5 run 2 heat pump 2	120
+2020-56-420	7/15/2020	Fermenter liquid d7 Trt6-run2-HP1	Fermenter liquid at day 7	Treatment 6 run 2 heat pump 1	121
+2020-56-421	7/15/2020	Fermenter liquid d7 Trt6-run2-HP2	Fermenter liquid at day 7	Treatment 6 run 2 heat pump 2	122
+2020-56-422	7/21/2020	Fermenter liquid d13 Trt1-run2-HP1	Fermenter liquid at day 13	Treatment 1 run 2 heat pump 1	123
+2020-56-423	7/21/2020	Fermenter liquid d13 Trt1-run2-HP2	Fermenter liquid at day 13	Treatment 1 run 2 heat pump 2	124
+2020-56-424	7/21/2020	Fermenter liquid d13 Trt2-run2-HP1	Fermenter liquid at day 13	Treatment 2 run 2 heat pump 1	125
+2020-56-425	7/21/2020	Fermenter liquid d13 Trt2-run2-HP2	Fermenter liquid at day 13	Treatment 2 run 2 heat pump 2	126
+2020-56-426	7/21/2020	Fermenter liquid d13 Trt3-run2-HP1	Fermenter liquid at day 13	Treatment 3 run 2 heat pump 1	127
+2020-56-427	7/21/2020	Fermenter liquid d13 Trt3-run2-HP2	Fermenter liquid at day 13	Treatment 3 run 2 heat pump 2	128
+2020-56-428	7/21/2020	Fermenter liquid d13 Trt4-run2-HP1	Fermenter liquid at day 13	Treatment 4 run 2 heat pump 1	129
+2020-56-429	7/21/2020	Fermenter liquid d13 Trt4-run2-HP2	Fermenter liquid at day 13	Treatment 4 run 2 heat pump 2	130
+2020-56-430	7/21/2020	Fermenter liquid d13 Trt5-run2-HP1	Fermenter liquid at day 13	Treatment 5 run 2 heat pump 1	131
+2020-56-431	7/21/2020	Fermenter liquid d13 Trt5-run2-HP2	Fermenter liquid at day 13	Treatment 5 run 2 heat pump 2	132
+2020-56-432	7/21/2020	Fermenter liquid d13 Trt6-run2-HP1	Fermenter liquid at day 13	Treatment 6 run 2 heat pump 1	133
+2020-56-433	7/21/2020	Fermenter liquid d13 Trt6-run2-HP2	Fermenter liquid at day 13	Treatment 6 run 2 heat pump 2	134
+2020-56-434	7/15/2020	Effluent d7 Trt1-run2-HP1	Effluent at day 7	Treatment 1 run 2 heat pump 1	135
+2020-56-435	7/15/2020	Effluent d7 Trt1-run2-HP2	Effluent at day 7	Treatment 1 run 2 heat pump 2	136
+2020-56-436	7/15/2020	Effluent d7 Trt2-run2-HP1	Effluent at day 7	Treatment 2 run 2 heat pump 1	137
+2020-56-437	7/15/2020	Effluent d7 Trt2-run2-HP2	Effluent at day 7	Treatment 2 run 2 heat pump 2	138
+2020-56-438	7/15/2020	Effluent d7 Trt3-run2-HP1	Effluent at day 7	Treatment 3 run 2 heat pump 1	139
+2020-56-439	7/15/2020	Effluent d7 Trt3-run2-HP2	Effluent at day 7	Treatment 3 run 2 heat pump 2	140
+2020-56-440	7/15/2020	Effluent d7 Trt4-run2-HP1	Effluent at day 7	Treatment 4 run 2 heat pump 1	141
+2020-56-441	7/15/2020	Effluent d7 Trt4-run2-HP2	Effluent at day 7	Treatment 4 run 2 heat pump 2	142
+2020-56-442	7/15/2020	Effluent d7 Trt5-run2-HP1	Effluent at day 7	Treatment 5 run 2 heat pump 1	143
+2020-56-443	7/15/2020	Effluent d7 Trt5-run2-HP2	Effluent at day 7	Treatment 5 run 2 heat pump 2	144
+2020-56-444	7/15/2020	Effluent d7 Trt6-run2-HP1	Effluent at day 7	Treatment 6 run 2 heat pump 1	145
+2020-56-445	7/15/2020	Effluent d7 Trt6-run2-HP2	Effluent at day 7	Treatment 6 run 2 heat pump 2	146
+2020-56-446	7/21/2020	Effluent d13 Trt1-run2-HP1	Effluent at day 13	Treatment 1 run 2 heat pump 1	147
+2020-56-447	7/21/2020	Effluent d13 Trt1-run2-HP2	Effluent at day 13	Treatment 1 run 2 heat pump 2	148
+2020-56-448	7/21/2020	Effluent d13 Trt2-run2-HP1	Effluent at day 13	Treatment 2 run 2 heat pump 1	149
+2020-56-449	7/21/2020	Effluent d13 Trt2-run2-HP2	Effluent at day 13	Treatment 2 run 2 heat pump 2	150
+2020-56-450	7/21/2020	Effluent d13 Trt3-run2-HP1	Effluent at day 13	Treatment 3 run 2 heat pump 1	151
+2020-56-451	7/21/2020	Effluent d13 Trt3-run2-HP2	Effluent at day 13	Treatment 3 run 2 heat pump 2	152
+2020-56-452	7/21/2020	Effluent d13 Trt4-run2-HP1	Effluent at day 13	Treatment 4 run 2 heat pump 1	153
+2020-56-453	7/21/2020	Effluent d13 Trt4-run2-HP2	Effluent at day 13	Treatment 4 run 2 heat pump 2	154
+2020-56-454	7/21/2020	Effluent d13 Trt5-run2-HP1	Effluent at day 13	Treatment 5 run 2 heat pump 1	155
+2020-56-455	7/21/2020	Effluent d13 Trt5-run2-HP2	Effluent at day 13	Treatment 5 run 2 heat pump 2	156
+2020-56-456	7/21/2020	Effluent d13 Trt6-run2-HP1	Effluent at day 13	Treatment 6 run 2 heat pump 1	157
+2020-56-457	7/21/2020	Effluent d13 Trt6-run2-HP2	Effluent at day 13	Treatment 6 run 2 heat pump 2	158
+pooled #1-3	6/17/2020	SP d0-mix-run1	Rumen solid phase from day 0 (start)	From cow 1-3 run 1	pooled #1-3
+pooled #4-6	6/17/2020	RF d0-mix-run1	Rumen fluid from day 0 (start)	From cow 1-3 run 1	pooled #4-6
+pooled #80-82	7/8/2020	SP d0-mix-run2	Rumen solid phase from day 0 (start)	From cow 1-3 run 2	pooled #80-82
+pooled #83-85	7/8/2020	RF d0-C1-run2	Rumen fluid from day 0 (start)	From cow 1-3 run 2	pooled #83-85

@@ -1,0 +1,50 @@
+primer	CAAGRGTTHGATYMTGGCTCAG	NONE	Column1	_1
+barcode	TACGGT	NONE	ID_76_B	
+barcode	TACTTG	NONE	ID_77_B	
+barcode	TATCTC	NONE	ID_78_B	
+barcode	TCATAA	NONE	ID_79_B	
+barcode	TCCGAG	NONE	ID_80_B	
+barcode	TCGCCG	NONE	ID_81_B	
+barcode	TCTAGT	NONE	ID_82_B	
+barcode	TCTGCC	NONE	ID_83_B	
+barcode	TGGTCC	NONE	ID_84_B	
+barcode	TTATGC	NONE	ID_85_B	
+barcode	AAGCCT	NONE	ID_86_B	
+barcode	AAGTTA	NONE	ID_87_B	
+barcode	AATACG	NONE	ID_88_B	
+barcode	AATCGA	NONE	ID_89_B	
+barcode	AATGAT	NONE	ID_90_B	
+barcode	ACCAAT	NONE	ID_91_B	
+barcode	ACCGTC	NONE	ID_92_B	
+barcode	ACCTCG	NONE	ID_93_B	
+barcode	ACGAGG	NONE	ID_94_B	
+barcode	ACTATA	NONE	ID_95_B	
+barcode	ACTTAC	NONE	ID_96_B	
+barcode	AGAAGC	NONE	Ration5	
+barcode	AGACCG	NONE	Ration6	
+barcode	AGAGTA	NONE	Ration7	
+barcode	AGATAT	NONE	Ration8	
+barcode	AGCATG	NONE	Cr D_1_S	
+barcode	AGCCGT	NONE	Cr D_2_S	
+barcode	AGGCTC	NONE	Cr D_3_S	
+barcode	ATAGAC	NONE	Cr D_4_S	
+barcode	ATATTG	NONE	Cr D_5_S	
+barcode	CAGATG	NONE	Cr D_6_S	
+barcode	CAGCAA	NONE	Cr D_7_S	
+barcode	CATAGC	NONE	Cr D_8_S	
+barcode	CCAGGT	NONE	Cr D_9_S	
+barcode	CCGCTT	NONE	Cr D_10_S	
+barcode	CCGTAG	NONE	Cr D_11_S	
+barcode	CCTGAA	NONE	Cr D_12_S	
+barcode	CGAATT	NONE	Cr D_14_S	
+barcode	CGATCA	NONE	Cr D_17_S	
+barcode	CGCAAC	NONE	Cr D_18_S	
+barcode	CGCGCT	NONE	Cr D_19_S	
+barcode	CGTCAG	NONE	Cr D_20_S	
+barcode	CTAAGA	NONE	Cr M_1_S	
+barcode	CTCCAT	NONE	Cr M_2_S	
+barcode	CTCGGC	NONE	Cr M_4_S	
+barcode	GACCTT	NONE	Cr M_5_S	
+barcode	GACGAC	NONE	Cr M_6_S	
+barcode	GATTAG	NONE	Cr M_7_S	
+barcode	GCATCC	NONE	Cr M_8_S	

@@ -1,0 +1,7 @@
+primer	CAAGRGTTHGATYMTGGCTCAG	NONE	Column1	_1
+barcode	AAGCCT	NONE	CaM_35_S	
+barcode	AAGTTA	NONE	CaM_36_S	
+barcode	AATACG	NONE	CaM_37_S	
+barcode	AATCGA	NONE	CaM_38_S	
+barcode	AATGAT	NONE	CaM_39_S	
+barcode	ACCAAT	NONE	CaM_40_S	

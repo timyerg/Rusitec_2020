@@ -1,0 +1,51 @@
+primer	CAAGRGTTHGATYMTGGCTCAG	NONE	Column1	_1
+barcode	CAGATG	NONE	Cr D_35_S	
+barcode	CAGCAA	NONE	Cr D_36_S	
+barcode	CATAGC	NONE	Cr D_37_S	
+barcode	CCAGGT	NONE	Cr D_38_S	
+barcode	CCGCTT	NONE	Cr D_40_S	
+barcode	CCGTAG	NONE	Cr M_21_S	
+barcode	CCTGAA	NONE	Cr M_22_S	
+barcode	CGAATT	NONE	Cr M_23_S	
+barcode	CGATCA	NONE	Cr M_24_S	
+barcode	CGCAAC	NONE	Cr M_25_S	
+barcode	CGCGCT	NONE	Cr M_26_S	
+barcode	CGTCAG	NONE	Cr M_27_S	
+barcode	CTAAGA	NONE	Cr M_28_S	
+barcode	CTCCAT	NONE	Cr M_29_S	
+barcode	CTCGGC	NONE	Cr M_30_S	
+barcode	CTGCGG	NONE	Cr M_31_S	
+barcode	GACCTT	NONE	Cr M_32_S	
+barcode	GACGAC	NONE	Cr M_33_S	
+barcode	GATTAG	NONE	Cr M_34_S	
+barcode	GCATCC	NONE	Cr M_35_S	
+barcode	GCCAGC	NONE	Cr M_36_S	
+barcode	GCGACT	NONE	Cr M_37_S	
+barcode	GCTCAT	NONE	Cr M_38_S	
+barcode	GGCCAA	NONE	Cr M_39_S	
+barcode	GGCTTC	NONE	Cr M_40_S	
+barcode	GGTACC	NONE	ID_21_S	
+barcode	GTAATC	NONE	ID_22_S	
+barcode	GTACGT	NONE	ID_23_S	
+barcode	GTCAAG	NONE	ID_24_S	
+barcode	GTCTCT	NONE	ID_25_S	
+barcode	TACGGT	NONE	ID_26_S	
+barcode	TACTTG	NONE	ID_27_S	
+barcode	TATCTC	NONE	ID_28_S	
+barcode	TCATAA	NONE	ID_29_S	
+barcode	TCCGAG	NONE	ID_30_S	
+barcode	TCGCCG	NONE	ID_31_S	
+barcode	TCTAGT	NONE	ID_32_S	
+barcode	TCTGCC	NONE	ID_33_S	
+barcode	TGGTCC	NONE	ID_34_S	
+barcode	TTATGC	NONE	ID_35_S	
+barcode	AAGCCT	NONE	ID_36_S	
+barcode	AAGTTA	NONE	ID_37_S	
+barcode	AATACG	NONE	ID_38_S	
+barcode	AATCGA	NONE	ID_39_S	
+barcode	AATGAT	NONE	ID_40_S	
+barcode	ACTTAC	NONE	IM_21_S	
+barcode	ACCGTC	NONE	IM_22_S	
+barcode	AGAAGC	NONE	IM_23_S	
+barcode	ACGAGG	NONE	IM_24_S	
+barcode	ACTATA	NONE	IM_25_S	

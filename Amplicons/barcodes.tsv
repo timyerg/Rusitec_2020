@@ -1,0 +1,325 @@
+SampleID	Sample INFO	Primers	Barcode	Index	BC	Run	Run_Ind
+1b	Rumen solid phase from day 0 (start)	V1-2	BC1	Index 1	AAGCCT	1	r1_i1
+2b	Rumen solid phase from day 0 (start)	V1-2	BC2	Index 1	AAGTTA	1	r1_i1
+3b	Rumen solid phase from day 0 (start)	V1-2	BC3	Index 1	AATACG	1	r1_i1
+4b	Rumen fluid from day 0 (start)	V1-2	BC4	Index 1	AATCGA	1	r1_i1
+5b	Rumen fluid from day 0 (start)	V1-2	BC5	Index 1	AATGAT	1	r1_i1
+6b	Rumen fluid from day 0 (start)	V1-2	BC6	Index 1	ACCAAT	1	r1_i1
+7b	Rumen fluid from day 0 (start)	V1-2	BC7	Index 1	ACCGTC	1	r1_i1
+8b	Feed residue at day 13 from 24h bag	V1-2	BC8	Index 1	ACCTCG	1	r1_i1
+9b	Feed residue at day 13 from 48h bag	V1-2	BC9	Index 1	ACGAGG	1	r1_i1
+10b	Feed residue at day 13 from 24h bag	V1-2	BC10	Index 1	ACTATA	1	r1_i1
+11b	Feed residue at day 13 from 48h bag	V1-2	BC42	Index 1	GCGACT	1	r1_i1
+12b	Feed residue at day 13 from 24h bag	V1-2	BC12	Index 1	AGAAGC	1	r1_i1
+13b	Feed residue at day 13 from 48h bag	V1-2	BC43	Index 1	GCTCAT	1	r1_i1
+14b	Feed residue at day 13 from 24h bag	V1-2	BC44	Index 1	GGCCAA	1	r1_i1
+15b	Feed residue at day 13 from 48h bag	V1-2	BC15	Index 1	AGATAT	1	r1_i1
+16b	Feed residue at day 13 from 24h bag	V1-2	BC45	Index 1	GGCTTC	1	r1_i1
+17b	Feed residue at day 13 from 48h bag	V1-2	BC17	Index 1	AGCCGT	1	r1_i1
+18b	Feed residue at day 13 from 24h bag	V1-2	BC18	Index 1	AGGCTC	1	r1_i1
+19b	Feed residue at day 13 from 48h bag	V1-2	BC19	Index 1	ATAGAC	1	r1_i1
+20b	Feed residue at day 13 from 24h bag	V1-2	BC46	Index 1	GGTACC	1	r1_i1
+21b	Feed residue at day 13 from 48h bag	V1-2	BC21	Index 1	CAGATG	1	r1_i1
+22b	Feed residue at day 13 from 24h bag	V1-2	BC22	Index 1	CAGCAA	1	r1_i1
+23b	Feed residue at day 13 from 48h bag	V1-2	BC47	Index 1	GTAATC	1	r1_i1
+24b	Feed residue at day 13 from 24h bag	V1-2	BC48	Index 1	GTACGT	1	r1_i1
+25b	Feed residue at day 13 from 48h bag	V1-2	BC25	Index 1	CCGCTT	1	r1_i1
+26b	Feed residue at day 13 from 24h bag	V1-2	BC26	Index 1	CCGTAG	1	r1_i1
+27b	Feed residue at day 13 from 48h bag	V1-2	BC27	Index 1	CCTGAA	1	r1_i1
+28b	Feed residue at day 13 from 24h bag	V1-2	BC28	Index 1	CGAATT	1	r1_i1
+29b	Feed residue at day 13 from 48h bag	V1-2	BC29	Index 1	CGATCA	1	r1_i1
+30b	Feed residue at day 13 from 24h bag	V1-2	BC30	Index 1	CGCAAC	1	r1_i1
+31b	Feed residue at day 13 from 48h bag	V1-2	BC31	Index 1	CGCGCT	1	r1_i1
+32b	Fermenter liquid at day 7	V1-2	BC32	Index 1	CGTCAG	1	r1_i1
+33b	Fermenter liquid at day 7	V1-2	BC33	Index 1	CTAAGA	1	r1_i1
+34b	Fermenter liquid at day 7	V1-2	BC49	Index 1	GTCAAG	1	r1_i1
+35b	Fermenter liquid at day 7	V1-2	BC35	Index 1	CTCGGC	1	r1_i1
+36b	Fermenter liquid at day 7	V1-2	BC36	Index 1	CTGCGG	1	r1_i1
+37b	Fermenter liquid at day 7	V1-2	BC50	Index 1	GTCTCT	1	r1_i1
+38b	Fermenter liquid at day 7	V1-2	BC38	Index 1	GACGAC	1	r1_i1
+39b	Fermenter liquid at day 7	V1-2	BC39	Index 1	GATTAG	1	r1_i1
+40b	Fermenter liquid at day 7	V1-2	BC40	Index 1	GCATCC	1	r1_i1
+41b	Fermenter liquid at day 7	V1-2	BC41	Index 1	GCCAGC	1	r1_i1
+42b	Fermenter liquid at day 7	V1-2	BC42	Index 2	GCGACT	1	r1_i2
+43b	Fermenter liquid at day 7	V1-2	BC43	Index 2	GCTCAT	1	r1_i2
+44b	Fermenter liquid at day 13	V1-2	BC44	Index 2	GGCCAA	1	r1_i2
+45b	Fermenter liquid at day 13	V1-2	BC45	Index 2	GGCTTC	1	r1_i2
+46b	Fermenter liquid at day 13	V1-2	BC46	Index 2	GGTACC	1	r1_i2
+47b	Fermenter liquid at day 13	V1-2	BC47	Index 2	GTAATC	1	r1_i2
+48b	Fermenter liquid at day 13	V1-2	BC48	Index 2	GTACGT	1	r1_i2
+49b	Fermenter liquid at day 13	V1-2	BC49	Index 2	GTCAAG	1	r1_i2
+50b	Fermenter liquid at day 13	V1-2	BC50	Index 2	GTCTCT	1	r1_i2
+51b	Fermenter liquid at day 13	V1-2	BC51	Index 2	TACGGT	1	r1_i2
+52b	Fermenter liquid at day 13	V1-2	BC52	Index 2	TACTTG	1	r1_i2
+53b	Fermenter liquid at day 13	V1-2	BC53	Index 2	TATCTC	1	r1_i2
+54b	Fermenter liquid at day 13	V1-2	BC54	Index 2	TCATAA	1	r1_i2
+55b	Fermenter liquid at day 13	V1-2	BC55	Index 2	TCCGAG	1	r1_i2
+56b	Effluent at day 7	V1-2	BC56	Index 2	TCGCCG	1	r1_i2
+57b	Effluent at day 7	V1-2	BC57	Index 2	TCTAGT	1	r1_i2
+58b	Effluent at day 7	V1-2	BC58	Index 2	TCTGCC	1	r1_i2
+59b	Effluent at day 7	V1-2	BC59	Index 2	TGGTCC	1	r1_i2
+60b	Effluent at day 7	V1-2	BC60	Index 2	TTATGC	1	r1_i2
+61b	Effluent at day 7	V1-2	BC1	Index 2	AAGCCT	1	r1_i2
+62b	Effluent at day 7	V1-2	BC2	Index 2	AAGTTA	1	r1_i2
+63b	Effluent at day 7	V1-2	BC3	Index 2	AATACG	1	r1_i2
+64b	Effluent at day 7	V1-2	BC4	Index 2	AATCGA	1	r1_i2
+65b	Effluent at day 7	V1-2	BC5	Index 2	AATGAT	1	r1_i2
+66b	Effluent at day 7	V1-2	BC6	Index 2	ACCAAT	1	r1_i2
+67b	Effluent at day 7	V1-2	BC7	Index 2	ACCGTC	1	r1_i2
+68b	Effluent at day 13	V1-2	BC8	Index 2	ACCTCG	1	r1_i2
+69b	Effluent at day 13	V1-2	BC9	Index 2	ACGAGG	1	r1_i2
+70b	Effluent at day 13	V1-2	BC10	Index 2	ACTATA	1	r1_i2
+71b	Effluent at day 13	V1-2	BC11	Index 2	ACTTAC	1	r1_i2
+72b	Effluent at day 13	V1-2	BC12	Index 2	AGAAGC	1	r1_i2
+73b	Effluent at day 13	V1-2	BC13	Index 2	AGACCG	1	r1_i2
+74b	Effluent at day 13	V1-2	BC14	Index 2	AGAGTA	1	r1_i2
+75b	Effluent at day 13	V1-2	BC15	Index 2	AGATAT	1	r1_i2
+76b	Effluent at day 13	V1-2	BC16	Index 2	AGCATG	1	r1_i2
+77b	Effluent at day 13	V1-2	BC17	Index 2	AGCCGT	1	r1_i2
+78b	Effluent at day 13	V1-2	BC18	Index 2	AGGCTC	1	r1_i2
+79b	Effluent at day 13	V1-2	BC23	Index 2	CATAGC	1	r1_i2
+80b	Rumen solid phase from day 0 (start)	V1-2	BC20	Index 2	ATATTG	1	r1_i2
+81b	Rumen solid phase from day 0 (start)	V1-2	BC21	Index 2	CAGATG	1	r1_i2
+82b	Rumen solid phase from day 0 (start)	V1-2	BC22	Index 2	CAGCAA	1	r1_i2
+83b	Rumen fluid from day 0 (start)	V1-2	BC23	Index 3	CATAGC	1	r1_i3
+84b	Rumen fluid from day 0 (start)	V1-2	BC24	Index 3	CCAGGT	1	r1_i3
+85b	Rumen fluid from day 0 (start)	V1-2	BC25	Index 3	CCGCTT	1	r1_i3
+86b	Rumen fluid from day 0 (start)	V1-2	BC26	Index 3	CCGTAG	1	r1_i3
+87b	Feed residue at day 13 from 24h bag	V1-2	BC27	Index 3	CCTGAA	1	r1_i3
+88b	Feed residue at day 13 from 48h bag	V1-2	BC28	Index 3	CGAATT	1	r1_i3
+89b	Feed residue at day 13 from 24h bag	V1-2	BC29	Index 3	CGATCA	1	r1_i3
+90b	Feed residue at day 13 from 48h bag	V1-2	BC30	Index 3	CGCAAC	1	r1_i3
+91b	Feed residue at day 13 from 24h bag	V1-2	BC31	Index 3	CGCGCT	1	r1_i3
+92b	Feed residue at day 13 from 48h bag	V1-2	BC32	Index 3	CGTCAG	1	r1_i3
+93b	Feed residue at day 13 from 24h bag	V1-2	BC33	Index 3	CTAAGA	1	r1_i3
+94b	Feed residue at day 13 from 48h bag	V1-2	BC34	Index 3	CTCCAT	1	r1_i3
+95b	Feed residue at day 13 from 24h bag	V1-2	BC35	Index 3	CTCGGC	1	r1_i3
+96b	Feed residue at day 13 from 48h bag	V1-2	BC37	Index 3	GACCTT	1	r1_i3
+97b	Feed residue at day 13 from 24h bag	V1-2	BC38	Index 3	GACGAC	1	r1_i3
+98b	Feed residue at day 13 from 48h bag	V1-2	BC39	Index 3	GATTAG	1	r1_i3
+99b	Feed residue at day 13 from 24h bag	V1-2	BC40	Index 3	GCATCC	1	r1_i3
+100b	Feed residue at day 13 from 48h bag	V1-2	BC41	Index 3	GCCAGC	1	r1_i3
+101b	Feed residue at day 13 from 24h bag	V1-2	BC42	Index 3	GCGACT	1	r1_i3
+102b	Feed residue at day 13 from 48h bag	V1-2	BC43	Index 3	GCTCAT	1	r1_i3
+103b	Feed residue at day 13 from 24h bag	V1-2	BC44	Index 3	GGCCAA	1	r1_i3
+104b	Feed residue at day 13 from 48h bag	V1-2	BC45	Index 3	GGCTTC	1	r1_i3
+105b	Feed residue at day 13 from 24h bag	V1-2	BC46	Index 3	GGTACC	1	r1_i3
+106b	Feed residue at day 13 from 48h bag	V1-2	BC47	Index 3	GTAATC	1	r1_i3
+107b	Feed residue at day 13 from 24h bag	V1-2	BC48	Index 3	GTACGT	1	r1_i3
+108b	Feed residue at day 13 from 48h bag	V1-2	BC49	Index 3	GTCAAG	1	r1_i3
+109b	Feed residue at day 13 from 24h bag	V1-2	BC50	Index 3	GTCTCT	1	r1_i3
+110b	Feed residue at day 13 from 48h bag	V1-2	BC51	Index 3	TACGGT	1	r1_i3
+111b	Fermenter liquid at day 7	V1-2	BC52	Index 3	TACTTG	1	r1_i3
+112b	Fermenter liquid at day 7	V1-2	BC53	Index 3	TATCTC	1	r1_i3
+113b	Fermenter liquid at day 7	V1-2	BC54	Index 3	TCATAA	1	r1_i3
+114b	Fermenter liquid at day 7	V1-2	BC55	Index 3	TCCGAG	1	r1_i3
+115b	Fermenter liquid at day 7	V1-2	BC56	Index 3	TCGCCG	1	r1_i3
+116b	Fermenter liquid at day 7	V1-2	BC57	Index 3	TCTAGT	1	r1_i3
+117b	Fermenter liquid at day 7	V1-2	BC58	Index 3	TCTGCC	1	r1_i3
+118b	Fermenter liquid at day 7	V1-2	BC59	Index 3	TGGTCC	1	r1_i3
+119b	Fermenter liquid at day 7	V1-2	BC60	Index 3	TTATGC	1	r1_i3
+120b	Fermenter liquid at day 7	V1-2	BC1	Index 3	AAGCCT	1	r1_i3
+121b	Fermenter liquid at day 7	V1-2	BC2	Index 3	AAGTTA	1	r1_i3
+122b	Fermenter liquid at day 7	V1-2	BC3	Index 3	AATACG	1	r1_i3
+123b	Fermenter liquid at day 13	V1-2	BC4	Index 5	AATCGA	1	r1_i5
+124b	Fermenter liquid at day 13	V1-2	BC5	Index 5	AATGAT	1	r1_i5
+125b	Fermenter liquid at day 13	V1-2	BC6	Index 5	ACCAAT	1	r1_i5
+126b	Fermenter liquid at day 13	V1-2	BC7	Index 5	ACCGTC	1	r1_i5
+127b	Fermenter liquid at day 13	V1-2	BC8	Index 5	ACCTCG	1	r1_i5
+128b	Fermenter liquid at day 13	V1-2	BC9	Index 5	ACGAGG	1	r1_i5
+129b	Fermenter liquid at day 13	V1-2	BC10	Index 5	ACTATA	1	r1_i5
+130b	Fermenter liquid at day 13	V1-2	BC11	Index 5	ACTTAC	1	r1_i5
+131b	Fermenter liquid at day 13	V1-2	BC12	Index 5	AGAAGC	1	r1_i5
+132b	Fermenter liquid at day 13	V1-2	BC13	Index 5	AGACCG	1	r1_i5
+133b	Fermenter liquid at day 13	V1-2	BC14	Index 5	AGAGTA	1	r1_i5
+134b	Fermenter liquid at day 13	V1-2	BC15	Index 5	AGATAT	1	r1_i5
+135b	Effluent at day 7	V1-2	BC16	Index 5	AGCATG	1	r1_i5
+136b	Effluent at day 7	V1-2	BC17	Index 5	AGCCGT	1	r1_i5
+137b	Effluent at day 7	V1-2	BC18	Index 5	AGGCTC	1	r1_i5
+138b	Effluent at day 7	V1-2	BC19	Index 5	ATAGAC	1	r1_i5
+139b	Effluent at day 7	V1-2	BC20	Index 5	ATATTG	1	r1_i5
+140b	Effluent at day 7	V1-2	BC21	Index 5	CAGATG	1	r1_i5
+141b	Effluent at day 7	V1-2	BC22	Index 5	CAGCAA	1	r1_i5
+142b	Effluent at day 7	V1-2	BC23	Index 5	CATAGC	1	r1_i5
+143b	Effluent at day 7	V1-2	BC24	Index 5	CCAGGT	1	r1_i5
+144b	Effluent at day 7	V1-2	BC25	Index 5	CCGCTT	1	r1_i5
+145b	Effluent at day 7	V1-2	BC26	Index 5	CCGTAG	1	r1_i5
+146b	Effluent at day 7	V1-2	BC27	Index 5	CCTGAA	1	r1_i5
+147b	Effluent at day 13	V1-2	BC28	Index 5	CGAATT	1	r1_i5
+148b	Effluent at day 13	V1-2	BC29	Index 5	CGATCA	1	r1_i5
+149b	Effluent at day 13	V1-2	BC30	Index 5	CGCAAC	1	r1_i5
+150b	Effluent at day 13	V1-2	BC31	Index 5	CGCGCT	1	r1_i5
+151b	Effluent at day 13	V1-2	BC32	Index 5	CGTCAG	1	r1_i5
+152b	Effluent at day 13	V1-2	BC33	Index 5	CTAAGA	1	r1_i5
+153b	Effluent at day 13	V1-2	BC34	Index 5	CTCCAT	1	r1_i5
+154b	Effluent at day 13	V1-2	BC35	Index 5	CTCGGC	1	r1_i5
+155b	Effluent at day 13	V1-2	BC36	Index 5	CTGCGG	1	r1_i5
+156b	Effluent at day 13	V1-2	BC37	Index 5	GACCTT	1	r1_i5
+157b	Effluent at day 13	V1-2	BC38	Index 5	GACGAC	1	r1_i5
+158b	Effluent at day 13	V1-2	BC39	Index 5	GATTAG	1	r1_i5
+mix1-3b		V1-2	BC40	Index 5	GCATCC	1	r1_i5
+mix4-6b		V1-2	BC41	Index 5	GCCAGC	1	r1_i5
+mix80-82b		V1-2	BC42	Index 5	GCGACT	1	r1_i5
+mix83-85b		V1-2	BC43	Index 5	GCTCAT	1	r1_i5
+1a	Rumen solid phase from day 0 (start)	Arch	AFor1	Index 1	TTGATT	2	r2_i1
+2a	Rumen solid phase from day 0 (start)	Arch	AFor2	Index 1	TTAATG	2	r2_i1
+3a	Rumen solid phase from day 0 (start)	Arch	AFor3	Index 1	AACCAG	2	r2_i1
+4a	Rumen fluid from day 0 (start)	Arch	AFor4	Index 1	AAGACC	2	r2_i1
+5a	Rumen fluid from day 0 (start)	Arch	AFor5	Index 1	AATGGA	2	r2_i1
+6a	Rumen fluid from day 0 (start)	Arch	AFor6	Index 1	ACGTTG	2	r2_i1
+7a	Rumen fluid from day 0 (start)	Arch	AFor7	Index 1	AGTCTC	2	r2_i1
+8a	Feed residue at day 13 from 24h bag	Arch	AFor8	Index 1	CAACTT	2	r2_i1
+9a	Feed residue at day 13 from 48h bag	Arch	AFor9	Index 1	CAGTAA	2	r2_i1
+10a	Feed residue at day 13 from 24h bag	Arch	AFor10	Index 1	CCTAAC	2	r2_i1
+11a	Feed residue at day 13 from 48h bag	Arch	AFor11	Index 1	CGAGAG	2	r2_i1
+12a	Feed residue at day 13 from 24h bag	Arch	AFor12	Index 1	CGCATA	2	r2_i1
+13a	Feed residue at day 13 from 48h bag	Arch	AFor13	Index 1	GCTCCA	2	r2_i1
+14a	Feed residue at day 13 from 24h bag	Arch	AFor14	Index 1	GGTTAT	2	r2_i1
+15a	Feed residue at day 13 from 48h bag	Arch	AFor15	Index 1	AACGCA	2	r2_i1
+16a	Feed residue at day 13 from 24h bag	Arch	AFor16	Index 1	AACTGC	2	r2_i1
+17a	Feed residue at day 13 from 48h bag	Arch	AFor17	Index 1	AGTTGG	2	r2_i1
+18a	Feed residue at day 13 from 24h bag	Arch	AFor18	Index 1	ATAACT	2	r2_i1
+19a	Feed residue at day 13 from 48h bag	Arch	AFor19	Index 1	ATAGAC	2	r2_i1
+20a	Feed residue at day 13 from 24h bag	Arch	AFor20	Index 1	AAGCTA	2	r3_i12
+21a	Feed residue at day 13 from 48h bag	Arch	AFor42	Index 1	GGAATG	2	r2_i1
+22a	Feed residue at day 13 from 24h bag	Arch	AFor22	Index 1	CAATTC	2	r2_i1
+23a	Feed residue at day 13 from 48h bag	Arch	AFor23	Index 1	AAGGAT	2	r3_i12
+24a	Feed residue at day 13 from 24h bag	Arch	AFor24	Index 1	CCAACG	2	r2_i1
+25a	Feed residue at day 13 from 48h bag	Arch	AFor25	Index 1	GTTCCG	2	r2_i1
+26a	Feed residue at day 13 from 24h bag	Arch	AFor26	Index 1	TACGGT	2	r2_i1
+27a	Feed residue at day 13 from 48h bag	Arch	AFor27	Index 1	TACTTG	2	r2_i1
+28a	Feed residue at day 13 from 24h bag	Arch	AFor28	Index 1	TATCTC	2	r2_i1
+29a	Feed residue at day 13 from 48h bag	Arch	AFor29	Index 1	TCATAA	2	r2_i1
+30a	Feed residue at day 13 from 24h bag	Arch	AFor30	Index 1	TCCGAG	2	r2_i1
+31a	Feed residue at day 13 from 48h bag	Arch	AFor31	Index 1	AACCGT	2	r2_i1
+32a	Fermenter liquid at day 7	Arch	AFor32	Index 1	AACGCG	2	r2_i1
+33a	Fermenter liquid at day 7	Arch	AFor33	Index 1	AACTAC	2	r2_i1
+34a	Fermenter liquid at day 7	Arch	AFor34	Index 1	AACTCT	2	r2_i1
+35a	Fermenter liquid at day 7	Arch	AFor35	Index 1	AACTGG	2	r2_i1
+36a	Fermenter liquid at day 7	Arch	AFor36	Index 1	CCAAGG	2	r2_i1
+37a	Fermenter liquid at day 7	Arch	AFor37	Index 1	CCAATT	2	r2_i1
+38a	Fermenter liquid at day 7	Arch	AFor38	Index 1	CCAGAT	2	r2_i1
+39a	Fermenter liquid at day 7	Arch	AFor39	Index 1	CCAGCG	2	r2_i1
+40a	Fermenter liquid at day 7	Arch	AFor40	Index 1	CCAGGC	2	r2_i1
+41a	Fermenter liquid at day 7	Arch	AFor41	Index 1	GAATCT	2	r2_i1
+42a	Fermenter liquid at day 7	Arch	AFor42	Index 3	GGAATG	2	r2_i3
+43a	Fermenter liquid at day 7	Arch	AFor43	Index 3	GGACCT	2	r2_i3
+44a	Fermenter liquid at day 13	Arch	AFor44	Index 3	GGAGTA	2	r2_i3
+45a	Fermenter liquid at day 13	Arch	AFor45	Index 3	GGCAGG	2	r2_i3
+46a	Fermenter liquid at day 13	Arch	AFor46	Index 3	TAGAAT	2	r2_i3
+47a	Fermenter liquid at day 13	Arch	AFor47	Index 3	TATTAC	2	r2_i3
+48a	Fermenter liquid at day 13	Arch	AFor48	Index 3	TCCTAA	2	r2_i3
+49a	Fermenter liquid at day 13	Arch	AFor49	Index 3	TCGCAT	2	r2_i3
+50a	Fermenter liquid at day 13	Arch	AFor50	Index 3	TCTGAC	2	r2_i3
+51a	Fermenter liquid at day 13	Arch	AFor51	Index 3	AAGCGG	2	r2_i3
+52a	Fermenter liquid at day 13	Arch	AFor52	Index 3	AAGCTA	2	r2_i3
+53a	Fermenter liquid at day 13	Arch	AFor53	Index 3	AAGGAT	2	r2_i3
+54a	Fermenter liquid at day 13	Arch	AFor54	Index 3	AAGGCA	2	r2_i3
+55a	Fermenter liquid at day 13	Arch	AFor55	Index 3	AAGTAA	2	r2_i3
+56a	Effluent at day 7	Arch	AFor56	Index 3	AAGTCG	2	r2_i3
+57a	Effluent at day 7	Arch	AFor57	Index 3	CCTATC	2	r2_i3
+58a	Effluent at day 7	Arch	AFor58	Index 3	CCTCAT	2	r2_i3
+59a	Effluent at day 7	Arch	AFor59	Index 3	AATAAC	2	r2_i3
+60a	Effluent at day 7	Arch	AFor60	Index 3	GTCCAT	2	r2_i3
+61a	Effluent at day 7	Arch	AFor1	Index 3	TTGATT	2	r2_i3
+62a	Effluent at day 7	Arch	AFor2	Index 3	TTAATG	2	r2_i3
+63a	Effluent at day 7	Arch	AFor3	Index 3	AACCAG	2	r2_i3
+64a	Effluent at day 7	Arch	AFor4	Index 3	AAGACC	2	r2_i3
+65a	Effluent at day 7	Arch	AFor5	Index 3	AATGGA	2	r2_i3
+66a	Effluent at day 7	Arch	AFor6	Index 3	ACGTTG	2	r2_i3
+67a	Effluent at day 7	Arch	AFor7	Index 3	AGTCTC	2	r2_i3
+68a	Effluent at day 13	Arch	AFor8	Index 3	CAACTT	2	r2_i3
+69a	Effluent at day 13	Arch	AFor9	Index 3	CAGTAA	2	r2_i3
+70a	Effluent at day 13	Arch	AFor10	Index 3	CCTAAC	2	r2_i3
+71a	Effluent at day 13	Arch	AFor11	Index 3	CGAGAG	2	r2_i3
+72a	Effluent at day 13	Arch	AFor12	Index 3	CGCATA	2	r2_i3
+73a	Effluent at day 13	Arch	AFor13	Index 3	GCTCCA	2	r2_i3
+74a	Effluent at day 13	Arch	AFor14	Index 3	GGTTAT	2	r2_i3
+75a	Effluent at day 13	Arch	AFor15	Index 3	AACGCA	2	r2_i3
+76a	Effluent at day 13	Arch	AFor16	Index 3	AACTGC	2	r2_i3
+77a	Effluent at day 13	Arch	AFor17	Index 3	AGTTGG	2	r2_i3
+78a	Effluent at day 13	Arch	AFor18	Index 3	ATAACT	2	r2_i3
+79a	Effluent at day 13	Arch	AFor19	Index 3	ATAGAC	2	r2_i3
+80a	Rumen solid phase from day 0 (start)	Arch	AFor20	Index 3	ATATTG	2	r2_i3
+81a	Rumen solid phase from day 0 (start)	Arch	AFor21	Index 3	CAAGAG	2	r2_i3
+82a	Rumen solid phase from day 0 (start)	Arch	AFor22	Index 3	CAATTC	2	r2_i3
+83a	Rumen fluid from day 0 (start)	Arch	AFor23	Index 4	CAGGCC	2	r2_i4
+84a	Rumen fluid from day 0 (start)	Arch	AFor24	Index 4	CCAACG	2	r2_i4
+85a	Rumen fluid from day 0 (start)	Arch	AFor25	Index 4	GTTCCG	2	r2_i4
+86a	Rumen fluid from day 0 (start)	Arch	AFor26	Index 4	TACGGT	2	r2_i4
+87a	Feed residue at day 13 from 24h bag	Arch	AFor27	Index 4	TACTTG	2	r2_i4
+88a	Feed residue at day 13 from 48h bag	Arch	AFor28	Index 4	TATCTC	2	r2_i4
+89a	Feed residue at day 13 from 24h bag	Arch	AFor29	Index 4	TCATAA	2	r2_i4
+90a	Feed residue at day 13 from 48h bag	Arch	AFor30	Index 4	TCCGAG	2	r2_i4
+91a	Feed residue at day 13 from 24h bag	Arch	AFor31	Index 4	AACCGT	2	r2_i4
+92a	Feed residue at day 13 from 48h bag	Arch	AFor32	Index 4	AACGCG	2	r2_i4
+93a	Feed residue at day 13 from 24h bag	Arch	AFor33	Index 4	AACTAC	2	r2_i4
+94a	Feed residue at day 13 from 48h bag	Arch	AFor34	Index 4	AACTCT	2	r2_i4
+95a	Feed residue at day 13 from 24h bag	Arch	AFor35	Index 4	AACTGG	2	r2_i4
+96a	Feed residue at day 13 from 48h bag	Arch	AFor37	Index 4	CCAATT	2	r2_i4
+97a	Feed residue at day 13 from 24h bag	Arch	AFor38	Index 4	CCAGAT	2	r2_i4
+98a	Feed residue at day 13 from 48h bag	Arch	AFor39	Index 4	CCAGCG	2	r2_i4
+99a	Feed residue at day 13 from 24h bag	Arch	AFor4	Index 4	AAGGCA	2	r3_i12
+100a	Feed residue at day 13 from 48h bag	Arch	AFor41	Index 4	AAGTAA	2	r3_i12
+101a	Feed residue at day 13 from 24h bag	Arch	AFor42	Index 4	GGAATG	2	r2_i4
+102a	Feed residue at day 13 from 48h bag	Arch	AFor43	Index 4	GGACCT	2	r2_i4
+103a	Feed residue at day 13 from 24h bag	Arch	AFor44	Index 4	GGAGTA	2	r2_i4
+104a	Feed residue at day 13 from 48h bag	Arch	AFor45	Index 4	GGCAGG	2	r2_i4
+105a	Feed residue at day 13 from 24h bag	Arch	AFor46	Index 4	TAGAAT	2	r2_i4
+106a	Feed residue at day 13 from 48h bag	Arch	AFor47	Index 4	TATTAC	2	r2_i4
+107a	Feed residue at day 13 from 24h bag	Arch	AFor48	Index 4	TCCTAA	2	r2_i4
+108a	Feed residue at day 13 from 48h bag	Arch	AFor49	Index 4	TCGCAT	2	r2_i4
+109a	Feed residue at day 13 from 24h bag	Arch	AFor50	Index 4	TCTGAC	2	r2_i4
+110a	Feed residue at day 13 from 48h bag	Arch	AFor51	Index 4	AAGCGG	2	r2_i4
+111a	Fermenter liquid at day 7	Arch	AFor52	Index 4	AAGCTA	2	r2_i4
+112a	Fermenter liquid at day 7	Arch	AFor53	Index 4	AAGGAT	2	r2_i4
+113a	Fermenter liquid at day 7	Arch	AFor54	Index 4	AAGGCA	2	r2_i4
+114a	Fermenter liquid at day 7	Arch	AFor55	Index 4	AAGTAA	2	r2_i4
+115a	Fermenter liquid at day 7	Arch	AFor56	Index 4	AAGTCG	2	r2_i4
+116a	Fermenter liquid at day 7	Arch	AFor57	Index 4	CCTATC	2	r2_i4
+117a	Fermenter liquid at day 7	Arch	AFor58	Index 4	CCTCAT	2	r2_i4
+118a	Fermenter liquid at day 7	Arch	AFor59	Index 4	AATAAC	2	r2_i4
+119a	Fermenter liquid at day 7	Arch	AFor60	Index 4	GTCCAT	2	r2_i4
+120a	Fermenter liquid at day 7	Arch	AFor1	Index 4	TTGATT	2	r2_i4
+121a	Fermenter liquid at day 7	Arch	AFor2	Index 4	TTAATG	2	r2_i4
+122a	Fermenter liquid at day 7	Arch	AFor3	Index 4	AACCAG	2	r2_i4
+123a	Fermenter liquid at day 13	Arch	AFor4	Index 5	CGAGAG	2	r3_i12
+124a	Fermenter liquid at day 13	Arch	AFor5	Index 5	CGCATA	2	r3_i12
+125a	Fermenter liquid at day 13	Arch	AFor6	Index 5	GCTCCA	2	r3_i12
+126a	Fermenter liquid at day 13	Arch	AFor7	Index 5	GGTTAT	2	r3_i12
+127a	Fermenter liquid at day 13	Arch	AFor8	Index 5	AACGCA	2	r3_i12
+128a	Fermenter liquid at day 13	Arch	AFor9	Index 5	AACTGC	2	r3_i12
+129a	Fermenter liquid at day 13	Arch	AFor10	Index 5	AAGTCG	2	r3_i12
+130a	Fermenter liquid at day 13	Arch	AFor11	Index 5	ATAACT	2	r3_i12
+131a	Fermenter liquid at day 13	Arch	AFor12	Index 5	ATAGAC	2	r3_i12
+132a	Fermenter liquid at day 13	Arch	AFor13	Index 5	ATATTG	2	r3_i12
+133a	Fermenter liquid at day 13	Arch	AFor14	Index 5	CAAGAG	2	r3_i12
+134a	Fermenter liquid at day 13	Arch	AFor15	Index 5	CAATTC	2	r3_i12
+135a	Effluent at day 7	Arch	AFor16	Index 5	CAGGCC	2	r3_i12
+136a	Effluent at day 7	Arch	AFor17	Index 5	CCAACG	2	r3_i12
+137a	Effluent at day 7	Arch	AFor18	Index 5	GTTCCG	2	r3_i12
+138a	Effluent at day 7	Arch	AFor19	Index 5	TACGGT	2	r3_i12
+139a	Effluent at day 7	Arch	AFor20	Index 5	TACTTG	2	r3_i12
+140a	Effluent at day 7	Arch	AFor21	Index 5	TATCTC	2	r3_i12
+141a	Effluent at day 7	Arch	AFor22	Index 5	TCATAA	2	r3_i12
+142a	Effluent at day 7	Arch	AFor23	Index 5	TCCGAG	2	r3_i12
+143a	Effluent at day 7	Arch	AFor24	Index 5	AACCGT	2	r3_i12
+144a	Effluent at day 7	Arch	AFor25	Index 5	AACGCG	2	r3_i12
+145a	Effluent at day 7	Arch	AFor26	Index 5	AACTAC	2	r3_i12
+146a	Effluent at day 7	Arch	AFor27	Index 5	AACTCT	2	r3_i12
+147a	Effluent at day 13	Arch	AFor28	Index 5	AACTGG	2	r3_i12
+148a	Effluent at day 13	Arch	AFor29	Index 5	CCAAGG	2	r3_i12
+149a	Effluent at day 13	Arch	AFor30	Index 5	CCAATT	2	r3_i12
+150a	Effluent at day 13	Arch	AFor31	Index 5	CCAGAT	2	r3_i12
+151a	Effluent at day 13	Arch	AFor32	Index 5	CCAGCG	2	r3_i12
+152a	Effluent at day 13	Arch	AFor33	Index 5	CCAGGC	2	r3_i12
+153a	Effluent at day 13	Arch	AFor34	Index 5	CCTATC	2	r3_i12
+154a	Effluent at day 13	Arch	AFor35	Index 5	GGAATG	2	r3_i12
+155a	Effluent at day 13	Arch	AFor36	Index 5	GGACCT	2	r3_i12
+156a	Effluent at day 13	Arch	AFor37	Index 5	GGAGTA	2	r3_i12
+157a	Effluent at day 13	Arch	AFor38	Index 5	GGCAGG	2	r3_i12
+158a	Effluent at day 13	Arch	AFor39	Index 5	TAGAAT	2	r3_i12
+mix1-3a		Arch	AFor40	Index 5	TATTAC	2	r3_i12
+mix4-6a		Arch	AFor41	Index 5	TCCTAA	2	r3_i12
+mix80-82a		Arch	AFor42	Index 5	TCGCAT	2	r3_i12
+mix83-85a		Arch	AFor43	Index 5	TCTGAC	2	r3_i12

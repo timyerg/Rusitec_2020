@@ -1,0 +1,9 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8
+#SampleID	BarcodeSequence	LinkerPrimerSequence	BodySite	x	y	m	r
+#q2:types	categorical	categorical	categorical				
+CaM_35_S	AAGCCT	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				
+CaM_36_S	AAGTTA	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				
+CaM_37_S	AATACG	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				
+CaM_38_S	AATCGA	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				
+CaM_39_S	AATGAT	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				
+CaM_40_S	ACCAAT	CAAGRGTTHGATYMTGGCTCAG	Caecum mucosa				

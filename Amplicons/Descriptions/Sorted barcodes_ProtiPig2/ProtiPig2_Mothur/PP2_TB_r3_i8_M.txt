@@ -1,0 +1,50 @@
+primer	CAAGRGTTHGATYMTGGCTCAG	NONE	Column1	_1
+barcode	CGCGCT	NONE	CaD_3_S	
+barcode	CGTCAG	NONE	CaD_4_S	
+barcode	CTAAGA	NONE	CaD_5_S	
+barcode	CTCCAT	NONE	CaD_6_S	
+barcode	CTCGGC	NONE	CaD_7_S	
+barcode	CTGCGG	NONE	CaD_8_S	
+barcode	GACCTT	NONE	CaD_9_S	
+barcode	GACGAC	NONE	CaD_10_S	
+barcode	GATTAG	NONE	CaD_11_S	
+barcode	GCATCC	NONE	CaD_12_S	
+barcode	GCCAGC	NONE	CaD_13_S	
+barcode	GCGACT	NONE	CaD_14_S	
+barcode	GCTCAT	NONE	CaD_15_S	
+barcode	GGCCAA	NONE	CaD_16_S	
+barcode	GGCTTC	NONE	CaD_17_S	
+barcode	GGTACC	NONE	CaD_18_S	
+barcode	GTAATC	NONE	CaD_19_S	
+barcode	GTACGT	NONE	CaD_20_S	
+barcode	GTCAAG	NONE	CaM_1_S	
+barcode	GTCTCT	NONE	CaM_2_S	
+barcode	TACGGT	NONE	CaM_3_S	
+barcode	TACTTG	NONE	CaM_4_S	
+barcode	TATCTC	NONE	CaM_5_S	
+barcode	TCATAA	NONE	CaM_6_S	
+barcode	TCCGAG	NONE	CaM_7_S	
+barcode	TCGCCG	NONE	CaM_8_S	
+barcode	TCTAGT	NONE	CaM_9_S	
+barcode	TCTGCC	NONE	CaM_10_S	
+barcode	TGGTCC	NONE	CaM_11_S	
+barcode	TTATGC	NONE	CaM_12_S	
+barcode	AAGCCT	NONE	CaM_13_S	
+barcode	AAGTTA	NONE	CaM_14_S	
+barcode	AATACG	NONE	CaM_15_S	
+barcode	AATCGA	NONE	CaM_16_S	
+barcode	AATGAT	NONE	CaM_17_S	
+barcode	ACCAAT	NONE	CaM_18_S	
+barcode	ACCGTC	NONE	CaM_19_S	
+barcode	ACCTCG	NONE	CaM_20_S	
+barcode	ACGAGG	NONE	Cr D_22_S	
+barcode	ACTATA	NONE	Cr D_23_S	
+barcode	ACTTAC	NONE	Cr D_25_S	
+barcode	AGACCG	NONE	Cr D_26_S	
+barcode	AGAGTA	NONE	Cr D_27_S	
+barcode	AGATAT	NONE	Cr D_28_S	
+barcode	AGCATG	NONE	Cr D_29_S	
+barcode	AGCCGT	NONE	Cr D_30_S	
+barcode	AGGCTC	NONE	Cr D_31_S	
+barcode	ATAGAC	NONE	Cr D_32_S	
+barcode	ATATTG	NONE	Cr D_33_S	

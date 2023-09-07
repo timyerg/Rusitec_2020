@@ -1,0 +1,42 @@
+	id	Trt	LFC	qval	Domain
+60	k_Bacteria;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;g_Oscillospiraceae bacterium (no genus in NCBI);s_Oscillospiraceae bacterium	AN1	0.3694353765627235	0.0086416130561355	Bacteria
+112	k_Bacteria;p_Firmicutes;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae;g_Anaerovibrio;s_Unclassified Anaerovibrio	AT	0.9226240409138066	0.0004000411041111807	Bacteria
+119	k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroidaceae bacterium (no genus in NCBI);s_Bacteroidaceae bacterium	AT	1.0622781999769644	0.000706867017856054	Bacteria
+126	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Unclassified Alphaproteobacteria;f_Unclassified Alphaproteobacteria;g_Unclassified Alphaproteobacteria;s_Unclassified Alphaproteobacteria	AT	-4.135888000228015	6.127484317998501e-49	Bacteria
+136	k_Bacteria;p_Firmicutes;c_Clostridia;o_Clostridia bacterium (no order in NCBI);f_Clostridia bacterium (no family in NCBI);g_Clostridia bacterium (no genus in NCBI);s_Clostridia bacterium	AT	-0.9137722687277362	0.000513615743051777	Bacteria
+139	k_Bacteria;p_Firmicutes;c_Clostridia;o_Unclassified Clostridia;f_Unclassified Clostridia;g_Unclassified Clostridia;s_Unclassified Clostridia	AT	-0.6126647713188593	0.0459848072724674	Bacteria
+140	k_Bacteria;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Muribaculaceae;g_Sodaliphilus;s_Sodaliphilus pleomorphus	AT	1.5323285029912823	0.0156238653606916	Bacteria
+144	k_Bacteria;p_Firmicutes;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae;g_Selenomonas;s_Selenomonas ruminantium	FV1	0.8582195529582519	0.0257910986348385	Bacteria
+168	k_Bacteria;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;g_Oscillospiraceae bacterium (no genus in NCBI);s_Oscillospiraceae bacterium	FV1	0.34824077936658	0.0027249640702533	Bacteria
+199	k_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae;g_Lactobacillus;s_Unclassified Lactobacillus	FV2	-0.708822977668928	0.0220636678260197	Bacteria
+45	k_Archaea;p_Euryarchaeota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanomicrobiaceae;g_Methanomicrobium;s_Unclassified Methanomicrobium	AT	-3.991602756689963	1.8491806723179672e-16	Archaea
+48	k_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Candidatus Methanomethylophilaceae;g_Candidatus Methanomethylophilus;s_Unclassified Candidatus Methanomethylophilus	AT	4.090421114160279	5.052192405726419e-05	Archaea
+50	k_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Candidatus Methanomethylophilaceae;g_Candidatus Methanomethylophilus;s_Candidatus Methanomethylophilus alvus	AT	3.024133890451352	1.1667836249623766e-05	Archaea
+52	k_Archaea;p_Euryarchaeota;c_Methanobacteria;o_Methanobacteriales;f_Methanobacteriaceae;g_Methanobrevibacter;s_Methanobrevibacter sp.	AT	3.083743002197032	3.4760720769008337e-25	Archaea
+53	k_Archaea;p_Euryarchaeota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanomicrobiaceae;g_Methanomicrobium;s_Methanomicrobium mobile	AT	-4.027466723282377	2.0160996957857012e-14	Archaea
+54	k_Archaea;p_Euryarchaeota;c_Methanobacteria;o_Methanobacteriales;f_Methanobacteriaceae;g_Methanobrevibacter;s_Methanobrevibacter millerae	AT	-0.9609951688896324	0.0002645471441435193	Archaea
+57	k_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Candidatus Methanomethylophilaceae;g_Candidatus Methanomethylophilaceae archaeon (no genus in NCBI);s_Candidatus Methanomethylophilaceae archaeon	AT	0.9924652775389556	0.0030711744961736	Archaea
+75	k_Archaea;p_Euryarchaeota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanomicrobiaceae;g_Methanomicrobium;s_Unclassified Methanomicrobium	FV2	-1.2136923153735937	0.0004202632358564389	Archaea
+83	k_Archaea;p_Euryarchaeota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanomicrobiaceae;g_Methanomicrobium;s_Methanomicrobium mobile	FV2	-1.2088728156784996	0.000430260442250929	Archaea
+45	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Unclassified Ectocarpus	AN1	2.9500267752606404	0.0182967871090285	Eukaryota
+59	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Unclassified Fucales;g_Unclassified Fucales;s_Unclassified Fucales	AN1	3.31662445519371	0.0165477952323819	Eukaryota
+69	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Fucaceae;g_Fucus;s_Unclassified Fucus	AN1	2.999656672814454	0.0208103489943665	Eukaryota
+71	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Ectocarpus sp.	AN1	4.118329539600559	0.002176065484763	Eukaryota
+81	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Unclassified Ectocarpus	AN2	3.32510674312811	0.0040991454581893	Eukaryota
+95	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Unclassified Fucales;g_Unclassified Fucales;s_Unclassified Fucales	AN2	3.64113063261014	0.0060984562458054	Eukaryota
+105	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Fucaceae;g_Fucus;s_Unclassified Fucus	AN2	3.3611151428508665	0.0063339833362425	Eukaryota
+107	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Ectocarpus sp.	AN2	4.103662589873477	0.0040991454581893	Eukaryota
+110	k_Eukaryota;p_Filasterea (no phylum in NCBI);c_Filasterea;o_Capsaspora (no order in NCBI);f_Capsaspora (no family in NCBI);g_Capsaspora;s_Capsaspora owczarzaki	AT	-2.1523297539662165	0.0186346134643823	Eukaryota
+116	k_Eukaryota;p_Parabasalia;c_Tritrichomonadida (no class in NCBI);o_Tritrichomonadida;f_Tritrichomonadidae;g_Tritrichomonas;s_Tritrichomonas foetus	AT	-1.9859727834149592	1.4270809526215353e-07	Eukaryota
+121	k_Eukaryota;p_Evosea;c_Mastigamoebida (no class in NCBI);o_Mastigamoebida;f_Entamoebidae;g_Entamoeba;s_Unclassified Entamoeba	AT	-1.6057694633575172	8.078019305083336e-06	Eukaryota
+124	k_Eukaryota;p_Parabasalia;c_Trichomonadida (no class in NCBI);o_Trichomonadida;f_Trichomonadidae;g_Trichomonas;s_Trichomonas vaginalis	AT	-1.978463224957696	1.4516253886014832e-16	Eukaryota
+129	k_Eukaryota;p_Preaxostyla;c_Oxymonadida (no class in NCBI);o_Oxymonadida;f_Streblomastigidae;g_Streblomastix;s_Streblomastix strix	AT	-1.4783264495429265	0.0475064779559466	Eukaryota
+130	k_Eukaryota;p_Parabasalia;c_Unclassified Parabasalia;o_Unclassified Parabasalia;f_Unclassified Parabasalia;g_Unclassified Parabasalia;s_Unclassified Parabasalia	AT	-2.2308347936618835	2.2692027924529557e-10	Eukaryota
+153	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Unclassified Ectocarpus	FV1	3.5288787980161054	0.0065135445915263	Eukaryota
+167	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Unclassified Fucales;g_Unclassified Fucales;s_Unclassified Fucales	FV1	4.1463869348145534	0.0019699076398611	Eukaryota
+177	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Fucaceae;g_Fucus;s_Unclassified Fucus	FV1	3.96644218307652	0.0016758114888523	Eukaryota
+179	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Ectocarpus sp.	FV1	4.894158368633052	0.00012099901207207408	Eukaryota
+189	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Unclassified Ectocarpus	FV2	3.4137740075493066	0.006512942508507	Eukaryota
+203	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Unclassified Fucales;g_Unclassified Fucales;s_Unclassified Fucales	FV2	4.2120765196636825	0.001360455590452	Eukaryota
+213	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Fucales;f_Fucaceae;g_Fucus;s_Unclassified Fucus	FV2	4.051922980383262	0.0011032090754597	Eukaryota
+215	k_Eukaryota;p_Phaeophyceae (no phylum in NCBI);c_Phaeophyceae;o_Ectocarpales;f_Ectocarpaceae;g_Ectocarpus;s_Ectocarpus sp.	FV2	4.491979816391818	0.0008708540576638299	Eukaryota

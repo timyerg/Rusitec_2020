@@ -1,0 +1,180 @@
+	KO	Gene	Category	Module
+0	K00200	fwdA	Methanogenesis	M00567: CO2 => methane
+1	K00201	fwdB	Methanogenesis	M00567: CO2 => methane
+2	K00202	fwdC	Methanogenesis	M00567: CO2 => methane
+3	K00203	fwdD	Methanogenesis	M00567: CO2 => methane
+4	K11261	fwdE	Methanogenesis	M00567: CO2 => methane
+5	K00205	fwdF	Methanogenesis	M00567: CO2 => methane
+6	K11260	fwdG	Methanogenesis	M00567: CO2 => methane
+7	K00204	fwdH	Methanogenesis	M00567: CO2 => methane
+8	K00672	ftr	Methanogenesis	M00567: CO2 => methane
+9	K01499	mch	Methanogenesis	M00567: CO2 => methane
+10	K00319	mtd	Methanogenesis	M00567: CO2 => methane
+11	K13942	hmd	Methanogenesis	M00567: CO2 => methane
+12	K00320	mer	Methanogenesis	M00567: CO2 => methane
+13	K00577	mtrA	Methanogenesis	M00567: CO2 => methane
+14	K00578	mtrB	Methanogenesis	M00567: CO2 => methane
+15	K00579	mtrC	Methanogenesis	M00567: CO2 => methane
+16	K00580	mtrD	Methanogenesis	M00567: CO2 => methane
+17	K00581	mtrE	Methanogenesis	M00567: CO2 => methane
+18	K00582	mtrF	Methanogenesis	M00567: CO2 => methane
+19	K00583	mtrG	Methanogenesis	M00567: CO2 => methane
+20	K00584	mtrH	Methanogenesis	M00567: CO2 => methane
+21	K00399	mcrA	Methanogenesis	M00567: CO2 => methane
+22	K00401	mcrB	Methanogenesis	M00567: CO2 => methane
+23	K00402	mcrG	Methanogenesis	M00567: CO2 => methane
+24	K22480	hdrA1	Methanogenesis	M00567: CO2 => methane
+25	K22481	hdrB1	Methanogenesis	M00567: CO2 => methane
+26	K22482	hdrC1	Methanogenesis	M00567: CO2 => methane
+27	K03388	hdrA2	Methanogenesis	M00567: CO2 => methane
+28	K03389	hdrB2	Methanogenesis	M00567: CO2 => methane
+29	K03390	hdrC2	Methanogenesis	M00567: CO2 => methane
+30	K08264	hdrD	Methanogenesis	M00567: CO2 => methane
+31	K08265	hdrE	Methanogenesis	M00567: CO2 => methane
+32	K03388	hdrA2	Methanogenesis	M00567: CO2 => methane
+33	K03389	hdrB2	Methanogenesis	M00567: CO2 => methane
+34	K03390	hdrC2	Methanogenesis	M00567: CO2 => methane
+35	K14127	mvhD	Methanogenesis	M00567: CO2 => methane
+36	K14126	mvhA	Methanogenesis	M00567: CO2 => methane
+37	K14128	mvhG	Methanogenesis	M00567: CO2 => methane
+38	K22516	fdhA	Methanogenesis	M00567: CO2 => methane
+39	K00125	fdhB	Methanogenesis	M00567: CO2 => methane
+40	K00925	ackA	Methanogenesis	M00357: acetate => methane
+41	K00625	pta	Methanogenesis	M00357: acetate => methane
+42	K01895	ACSS1_2	Methanogenesis	M00357: acetate => methane
+43	K00193	cdhC	Methanogenesis	M00357: acetate => methane
+44	K00197	cdhE	Methanogenesis	M00357: acetate => methane
+45	K00194	cdhD	Methanogenesis	M00357: acetate => methane
+46	K00577	mtrA	Methanogenesis	M00357: acetate => methane
+47	K00578	mtrB	Methanogenesis	M00357: acetate => methane
+48	K00579	mtrC	Methanogenesis	M00357: acetate => methane
+49	K00580	mtrD	Methanogenesis	M00357: acetate => methane
+50	K00581	mtrE	Methanogenesis	M00357: acetate => methane
+51	K00582	mtrF	Methanogenesis	M00357: acetate => methane
+52	K00583	mtrG	Methanogenesis	M00357: acetate => methane
+53	K00584	mtrH	Methanogenesis	M00357: acetate => methane
+54	K00399	mcrA	Methanogenesis	M00357: acetate => methane
+55	K00401	mcrB	Methanogenesis	M00357: acetate => methane
+56	K00402	mcrG	Methanogenesis	M00357: acetate => methane
+57	K22480	hdrA1	Methanogenesis	M00357: acetate => methane
+58	K22481	hdrB1	Methanogenesis	M00357: acetate => methane
+59	K22482	hdrC1	Methanogenesis	M00357: acetate => methane
+60	K03388	hdrA2	Methanogenesis	M00357: acetate => methane
+61	K03389	hdrB2	Methanogenesis	M00357: acetate => methane
+62	K03390	hdrC2	Methanogenesis	M00357: acetate => methane
+63	K08264	hdrD	Methanogenesis	M00357: acetate => methane
+64	K08265	hdrE	Methanogenesis	M00357: acetate => methane
+65	K03388	hdrA2	Methanogenesis	M00357: acetate => methane
+66	K03389	hdrB2	Methanogenesis	M00357: acetate => methane
+67	K03390	hdrC2	Methanogenesis	M00357: acetate => methane
+68	K14127	mvhD	Methanogenesis	M00357: acetate => methane
+69	K14126	mvhA	Methanogenesis	M00357: acetate => methane
+70	K14128	mvhG	Methanogenesis	M00357: acetate => methane
+71	K22516	fdhA	Methanogenesis	M00357: acetate => methane
+72	K00125	fdhB	Methanogenesis	M00357: acetate => methane
+73	K14080	mtaA	Methanogenesis	M00356: methanol => methane
+74	K04480	mtaB	Methanogenesis	M00356: methanol => methane
+75	K14081	mtaC	Methanogenesis	M00356: methanol => methane
+76	K00399	mcrA	Methanogenesis	M00356: methanol => methane
+77	K00401	mcrB	Methanogenesis	M00356: methanol => methane
+78	K00402	mcrG	Methanogenesis	M00356: methanol => methane
+79	K22480	hdrA1	Methanogenesis	M00356: methanol => methane
+80	K22481	hdrB1	Methanogenesis	M00356: methanol => methane
+81	K22482	hdrC1	Methanogenesis	M00356: methanol => methane
+82	K03388	hdrA2	Methanogenesis	M00356: methanol => methane
+83	K03389	hdrB2	Methanogenesis	M00356: methanol => methane
+84	K03390	hdrC2	Methanogenesis	M00356: methanol => methane
+85	K08264	hdrD	Methanogenesis	M00356: methanol => methane
+86	K08265	hdrE	Methanogenesis	M00356: methanol => methane
+87	K03388	hdrA2	Methanogenesis	M00356: methanol => methane
+88	K03389	hdrB2	Methanogenesis	M00356: methanol => methane
+89	K03390	hdrC2	Methanogenesis	M00356: methanol => methane
+90	K14127	mvhD	Methanogenesis	M00356: methanol => methane
+91	K14126	mvhA	Methanogenesis	M00356: methanol => methane
+92	K14128	mvhG	Methanogenesis	M00356: methanol => methane
+93	K22516	fdhA	Methanogenesis	M00356: methanol => methane
+94	K00125	fdhB	Methanogenesis	M00356: methanol => methane
+95	K14082	mtbA	Methanogenesis	M00563: di/tri/methylamine => methane
+96	K16177	mtmC	Methanogenesis	M00563: di/tri/methylamine => methane
+97	K16176	mtmB	Methanogenesis	M00563: di/tri/methylamine => methane
+98	K16179	mtbC	Methanogenesis	M00563: di/tri/methylamine => methane
+99	K16178	mtbB	Methanogenesis	M00563: di/tri/methylamine => methane
+100	K14084	mttC	Methanogenesis	M00563: di/tri/methylamine => methane
+101	K14083	mttB	Methanogenesis	M00563: di/tri/methylamine => methane
+102	K00399	mcrA	Methanogenesis	M00563: di/tri/methylamine => methane
+103	K00401	mcrB	Methanogenesis	M00563: di/tri/methylamine => methane
+104	K00402	mcrG	Methanogenesis	M00563: di/tri/methylamine => methane
+105	K22480	hdrA1	Methanogenesis	M00563: di/tri/methylamine => methane
+106	K22481	hdrB1	Methanogenesis	M00563: di/tri/methylamine => methane
+107	K22482	hdrC1	Methanogenesis	M00563: di/tri/methylamine => methane
+108	K03388	hdrA2	Methanogenesis	M00563: di/tri/methylamine => methane
+109	K03389	hdrB2	Methanogenesis	M00563: di/tri/methylamine => methane
+110	K03390	hdrC2	Methanogenesis	M00563: di/tri/methylamine => methane
+111	K08264	hdrD	Methanogenesis	M00563: di/tri/methylamine => methane
+112	K08265	hdrE	Methanogenesis	M00563: di/tri/methylamine => methane
+113	K03388	hdrA2	Methanogenesis	M00563: di/tri/methylamine => methane
+114	K03389	hdrB2	Methanogenesis	M00563: di/tri/methylamine => methane
+115	K03390	hdrC2	Methanogenesis	M00563: di/tri/methylamine => methane
+116	K14127	mvhD	Methanogenesis	M00563: di/tri/methylamine => methane
+117	K14126	mvhA	Methanogenesis	M00563: di/tri/methylamine => methane
+118	K14128	mvhG	Methanogenesis	M00563: di/tri/methylamine => methane
+119	K22516	fdhA	Methanogenesis	M00563: di/tri/methylamine => methane
+120	K00125	fdhB	Methanogenesis	M00563: di/tri/methylamine => methane
+121	K00600	glyA	Formaldehyde assimilation	M00346: serine pathway
+122	K00830	AGXT	Formaldehyde assimilation	M00346: serine pathway
+123	K00018	hprA	Formaldehyde assimilation	M00346: serine pathway
+124	K11529	gck	Formaldehyde assimilation	M00346: serine pathway
+125	K01689	ENO	Formaldehyde assimilation	M00346: serine pathway
+126	K01595	ppc	Formaldehyde assimilation	M00346: serine pathway
+127	K00024	mdh	Formaldehyde assimilation	M00346: serine pathway
+128	K08692	mtkB	Formaldehyde assimilation	M00346: serine pathway
+129	K14067	mtkA	Formaldehyde assimilation	M00346: serine pathway
+130	K08691	mcl	Formaldehyde assimilation	M00346: serine pathway
+131	K08093	hxlA	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+132	K13812	fae-hps	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+133	K08094	hxlB	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+134	K13831	hps-phi	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+135	K00850	pfkA	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+136	K16370	pfkB	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+137	K01624	FBA	Formaldehyde assimilation	M00345: ribulose monophosphate pathway
+138	K17100	DAS	Formaldehyde assimilation	M00344: xylulose monophosphate pathway
+139	K00863	DAK	Formaldehyde assimilation	M00344: xylulose monophosphate pathway
+140	K01624	FBA	Formaldehyde assimilation	M00344: xylulose monophosphate pathway
+141	K03841	FBP	Formaldehyde assimilation	M00344: xylulose monophosphate pathway
+142	K08097	comA	Methanogenesis related	M00358: Coenzyme M biosynthesis
+143	K05979	comB	Methanogenesis related	M00358: Coenzyme M biosynthesis
+144	K05884	comC	Methanogenesis related	M00358: Coenzyme M biosynthesis
+145	K13039	comE	Methanogenesis related	M00358: Coenzyme M biosynthesis
+146	K06034	comD	Methanogenesis related	M00358: Coenzyme M biosynthesis
+147	K10977	aksA	Methanogenesis related	M00608: 2-Oxocarboxylic acid chain extension
+148	K16792	aksD	Methanogenesis related	M00608: 2-Oxocarboxylic acid chain extension
+149	K16793	aksE	Methanogenesis related	M00608: 2-Oxocarboxylic acid chain extension
+150	K10978	aksF	Methanogenesis related	M00608: 2-Oxocarboxylic acid chain extension
+151	K10944	pmoA-amoA	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+152	K10945	pmoB-amoB	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+153	K10946	pmoC-amoC	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+154	K16157	mmoX	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+155	K16158	mmoY	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+156	K16159	mmoZ	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+157	K16160	mmoB	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+158	K16161	mmoC	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+159	K16162	mmoD	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+160	K14028	mdh1	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+161	K14029	mdh2	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+162	K23995	xoxF	Methanogenesis related	M00174: Methane oxidation, methanotroph, methane => formaldehyde
+163	K11780	cofG	Methanogenesis related	M00378: F420 biosynthesis, archaea
+164	K11781	cofH	Methanogenesis related	M00378: F420 biosynthesis, archaea
+165	K14941	cofC	Methanogenesis related	M00378: F420 biosynthesis, archaea
+166	K11212	cofD	Methanogenesis related	M00378: F420 biosynthesis, archaea
+167	K12234	cofE	Methanogenesis related	M00378: F420 biosynthesis, archaea
+168	K09733	mfnB	Methanogenesis related	M00935: Methanofuran biosynthesis
+169	K19793	mfnC	Methanogenesis related	M00935: Methanofuran biosynthesis
+170	K07144	mfnE	Methanogenesis related	M00935: Methanofuran biosynthesis
+171	K18933	mfnA	Methanogenesis related	M00935: Methanofuran biosynthesis
+172	K06914	mfnD	Methanogenesis related	M00935: Methanofuran biosynthesis
+173	K07072	mfnF	Methanogenesis related	M00935: Methanofuran biosynthesis
+174	K00192	cdhA	Methanogenesis related	M00422: Acetyl-CoA pathway
+175	K00195	cdhB	Methanogenesis related	M00422: Acetyl-CoA pathway
+176	K00193	cdhC	Methanogenesis related	M00422: Acetyl-CoA pathway
+177	K00197	cdhE	Methanogenesis related	M00422: Acetyl-CoA pathway
+178	K00194	cdhD	Methanogenesis related	M00422: Acetyl-CoA pathway
